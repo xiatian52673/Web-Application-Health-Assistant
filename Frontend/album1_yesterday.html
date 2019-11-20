@@ -1,0 +1,308 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>YESTERDAY</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="stylesheet" href="css/Main.css">
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<script src="https://sdk.amazonaws.com/js/aws-sdk-2.7.16.min.js"></script>
+	<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script>
+	AWS.config.update({
+	region: "us-east-1",
+	// accessKeyId default can be used while using the downloadable version of DynamoDB. 
+	// For security reasons, do not store AWS Credentials in your files. Use Amazon Cognito instead.
+	accessKeyId: "accessKeyId",
+	// secretAccessKey default can be used while using the downloadable version of DynamoDB. 
+	// For security reasons, do not store AWS Credentials in your files. Use Amazon Cognito instead.
+	secretAccessKey: "secretAccessKey"
+	});
+
+
+	var docClient = new AWS.DynamoDB.DocumentClient();
+
+	function num() {
+		var params2 = {
+			TableName: "comment",
+			ProjectionExpression: "#yr, cmt",
+			FilterExpression: "#yr between :start_yr and :end_yr",
+			ExpressionAttributeNames: {
+				"#yr": "id",
+			},
+			ExpressionAttributeValues: {
+				":start_yr": 0,
+				":end_yr": 100
+			}
+		};
+		docClient.scan(params2, onScannum);
+		
+		function onScannum(err, data) {
+			if (err) {
+				console.log("Error:",err);
+			} else {
+				// Print all the movies
+				console.log("Success");
+				count = data.Count;
+				console.log(count);
+
+				var qq = $('#writecmt').val();
+				console.log(qq);
+				var params1 = {
+					TableName: "comment",
+					Item: {
+						"id" : count,
+						"cmt" : qq
+						}
+					};
+				docClient.put(params1, function(err, data) {
+					if (err) {
+						console.log("Error:",err);
+					} else {
+						console.log("PutItem succeeded!");
+					}
+				});
+
+				var params = {
+				TableName: "comment",
+				ProjectionExpression: "#yr, cmt",
+				FilterExpression: "#yr between :start_yr and :end_yr",
+				ExpressionAttributeNames: {
+					"#yr": "id",
+				},
+				ExpressionAttributeValues: {
+					":start_yr": count-5,
+					":end_yr": count
+					}
+				};
+
+				docClient.scan(params, onScan);
+
+				function onScan(err, data) {
+				if (err) {
+					console.log("Error:",err);
+				} else {
+					// Print all the movies
+					console.log("Success");
+					console.log(count);
+					console.log(data.Items);
+					var sortcmt = [1,2,3];
+					console.log(sortcmt);
+					for (i = 5; i >= 0; i--) {
+						if (data.Items[i].id == count){sortcmt[5] = data.Items[i].cmt}
+						if (data.Items[i].id == count-1){sortcmt[4] = data.Items[i].cmt}
+						if (data.Items[i].id == count-2){sortcmt[3] = data.Items[i].cmt}
+						if (data.Items[i].id == count-3){sortcmt[2] = data.Items[i].cmt}
+						if (data.Items[i].id == count-4){sortcmt[1] = data.Items[i].cmt}
+						if (data.Items[i].id == count-5){sortcmt[0] = data.Items[i].cmt}
+					}
+					console.log(sortcmt)
+
+					$("ct").empty();
+					for (i = 5; i >= 0; i--) { 
+							var cmt = sortcmt[i];
+							console.log(cmt);
+						$("ct").append(cmt);
+						$("ct").append('<br><br>');
+					}
+					params.ExclusiveStartKey = data.LastEvaluatedKey;
+					//docClient.scan(params, onScan);            
+					}
+				}
+				}
+		}
+
+	}
+
+
+	</script>
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+	<div id="fh5co-page">
+		<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
+		<aside id="fh5co-aside" role="complementary" class="border js-fullheight">
+
+			<h1 id="fh5co-logo"><a href="index.html">FOCUSMUSIC</a></h1>
+			<nav id="fh5co-main-menu" role="navigation">
+				<ul>
+					<li><a href="home.html">Home</a></li>
+					<li><a href="Albums Info.html">Albums Info</a></li>
+					<li><a href="Music Search.html">Music Search</a></li>
+					<li><a href="ChatBot.html">ChatBot</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+			</nav>
+
+			<div class="fh5co-footer">
+				<p>Copyright &copy; 2018.Cloud Computing & Big Data FocusMusic Team</p>
+				<ul>
+					<li><a href="#"><i class="icon-facebook2"></i></a></li>
+					<li><a href="#"><i class="icon-twitter2"></i></a></li>
+					<li><a href="#"><i class="icon-instagram"></i></a></li>
+					<li><a href="#"><i class="icon-linkedin2"></i></a></li>
+				</ul>
+			</div>
+
+		</aside>
+
+		<div id="fh5co-main">
+			<div class="fh5co-narrow-content">
+				<div class="row row-bottom-padded-md">
+					<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+						<img class="img-responsive" src="images/album1_yesterday.jpg" height="450" width="450" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+					</div>
+					<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+						<h2 class="fh5co-heading"><font size="8">Yesterday</font></h2>
+						<span><big>by Block B </big> / <big> Dance </big> / <big> <i class="icon-comment"></i> 2017</big></span>
+						<p> </p>
+						<p><font size="3">Block Rain, who showed a wide musical spectrum with the sensation of block obesity in last April 'Blooming Period', returned to the special single 'YESTERDAY' in about 10 months.</p>
+						<p>Leader Zico was the head of the blockbik, and in this special single album, Park Kyung took over Bhutan. Park Kyung Eun, who has built solid popularity and musicality through the solo album, has got the word 'believing and listening to Park Kyung'. This time he finished 'Punk Blockbee' with 'YESTERDAY'.</font></p>
+					</div>
+				</div>
+			</div>
+
+			<div>
+				<table border="0" cellpadding="8" width="1200">
+					<tr>
+						<th>&nbsp;</th>
+						<th align="left" colspan="3" bgcolor="Beige"><font face="ariel" size="5">Title</th>
+						<th align="left" bgcolor="Beige "><font face="ariel"size="5">Artist</th>
+						<th align="left" bgcolor="Beige "><font face="ariel"size="5">Length</th>
+						<th align="left" bgcolor="Beige "><font face="ariel"size="5">Play</th>
+					</tr>
+					<tr>
+						<td> </td>
+						<td><font size="4">YESTERDAY</td>
+						<td> </td>
+						<td> </td>
+						<td><font size="4">Block B</td>
+						<td><font size="4">02:48</td>
+						<td><button id="play" onclick="playOrPauseSong()"><img src="Play.png"/></button>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div class="fh5co-narrow-content animate-box" data-animate-effect="fadeInLeft">
+				
+				<div class="row">
+					<div class="col-md-4">
+						<h2>Comment</h2>
+					</div>
+				</div>
+				<form action="">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										<textarea name="" id="writecmt" cols="30" rows="7" class="form-control" placeholder="Looking forward to your comment!"></textarea>
+									</div>
+									<div class="form-group">
+										<button type="button" id="send" class="btn btn-primary btn-md" onclick="num();">Submit Comment</button>
+									</div>
+									<ct></ct>
+								</div>
+								
+							</div>
+						</div>
+						
+					</div>
+				</form>
+			</div>
+
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	
+	
+	<!-- MAIN JS -->
+	<script src="js/main.js"></script>
+
+	</body>
+
+	<script type="text/javascript">
+    
+        var songs = ["https://s3.amazonaws.com/songplay/MINO-Dear+My+Wife.mp3"];
+        
+        var songTitle = document.getElementById("songTitle");
+        var fillBar = document.getElementById("fill");
+        
+        var song = new Audio();
+        var currentSong = 0;    // it point to the current song
+        
+        window.onload = playSong;   // it will call the function playSong when window is load
+        
+        function playSong(){
+            
+            song.src = songs[currentSong];  //set the source of 0th song 
+            
+            songTitle.textContent = songs[currentSong]; // set the title of song
+            
+            song.play();    // play the song
+        }
+        
+        function playOrPauseSong(){
+            
+            if(song.paused){
+                song.play();
+                $("#play img").attr("src","Pause.png");
+            }
+            else{
+                song.pause();
+                $("#play img").attr("src","Play.png");
+            }
+        }
+        
+        song.addEventListener('timeupdate',function(){ 
+            
+            var position = song.currentTime / song.duration;
+            
+            fillBar.style.width = position * 100 +'%';
+        });
+		</script>
+</html>
+
