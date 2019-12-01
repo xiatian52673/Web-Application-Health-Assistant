@@ -1,0 +1,6801 @@
+[{
+  "id": "aZtXeLUy7Fey1zicBlr7Dw",
+  "alias": "brooklyn-hospital-center-brooklyn-2",
+  "name": "Brooklyn Hospital Center",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Lau1vYctwQvfU9gO_vjEWQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/brooklyn-hospital-center-brooklyn-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.6972618,
+    "longitude": -73.9257965
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1280 Dekalb Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11221",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1280 Dekalb Ave",
+      "Brooklyn, NY 11221"
+    ]
+  },
+  "phone": "+17184559000",
+  "display_phone": "(718) 455-9000",
+  "distance": 8287.672905084002
+},
+{
+  "id": "5jbssquW00BHCBAzPfhhLA",
+  "alias": "park-avenue-trauma-brooklyn-2",
+  "name": "Park Avenue Trauma",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/park-avenue-trauma-brooklyn-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "orthopedists",
+      "title": "Orthopedists"
+    },
+    {
+      "alias": "painmanagement",
+      "title": "Pain Management"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.69104,
+    "longitude": -73.99028
+  },
+  "transactions": [],
+  "location": {
+    "address1": "100 Livingston St",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "100 Livingston St",
+      "Fl 2",
+      "Brooklyn, NY 11201"
+    ]
+  },
+  "phone": "+19178180665",
+  "display_phone": "(917) 818-0665",
+  "distance": 7756.3925354393195
+},
+{
+  "id": "4J9V-_12_-qdJIc4tbYc2w",
+  "alias": "nyc-health-hospitals-gotham-health-bronx-bronx",
+  "name": "NYC Health + Hospitals/Gotham Health- Bronx",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TiPlJIJNs9EUbJ7tprfK3A/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-gotham-health-bronx-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.836344,
+    "longitude": -73.920364
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1225 Gerard Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10452",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1225 Gerard Ave",
+      "Bronx, NY 10452"
+    ]
+  },
+  "phone": "+17189602781",
+  "display_phone": "(718) 960-2781",
+  "distance": 9778.054160584841
+},
+{
+  "id": "Ika5Rh29YmK-w-6UVnko7Q",
+  "alias": "long-island-college-hosp-brooklyn",
+  "name": "Long Island College Hosp",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/long-island-college-hosp-brooklyn?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.69246,
+    "longitude": -73.99036
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "Brooklyn, NY 11201"
+    ]
+  },
+  "phone": "+17187801717",
+  "display_phone": "(718) 780-1717",
+  "distance": 6871.340433207359
+},
+{
+  "id": "ihdtQQNvVkGXnGVWwL32ag",
+  "alias": "jackson-heights-family-health-center-jackson-heights",
+  "name": "Jackson Heights Family Health Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/jackson-heights-family-health-center-jackson-heights?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.755097,
+    "longitude": -73.893083
+  },
+  "transactions": [],
+  "location": {
+    "address1": "7315 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Jackson Heights",
+    "zip_code": "11372",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "7315 Northern Blvd",
+      "Jackson Heights, NY 11372"
+    ]
+  },
+  "phone": "+17184242788",
+  "display_phone": "(718) 424-2788",
+  "distance": 7209.62138278002
+},
+{
+  "id": "oW1FzjM17-m8XOMSarJC6g",
+  "alias": "albert-einstein-weiler-hospital-division-of-montefiore-medical-c-bronx",
+  "name": "Albert Einstein-Weiler Hospital Division of Montefiore Medical C",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/albert-einstein-weiler-hospital-division-of-montefiore-medical-c-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.82601,
+    "longitude": -73.92309
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10451",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "Bronx, NY 10451"
+    ]
+  },
+  "phone": "+17189042395",
+  "display_phone": "(718) 904-2395",
+  "distance": 7811.92640363203
+},
+{
+  "id": "tcyuaLXH6Dks9O85noJUdA",
+  "alias": "nyc-health-hospitals-gotham-health-sydenham-new-york-2",
+  "name": "NYC Health + Hospitals/Gotham Health, Sydenham",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nb1wXxNxpWtXuFNHhlHskg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-gotham-health-sydenham-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.805155,
+    "longitude": -73.953646
+  },
+  "transactions": [],
+  "location": {
+    "address1": "264 West 118th St",
+    "address2": null,
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10026",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "264 West 118th St",
+      "New York, NY 10026"
+    ]
+  },
+  "phone": "+18446924692",
+  "display_phone": "(844) 692-4692",
+  "distance": 5421.956408288776
+},
+{
+  "id": "GQz14nQ2QL9enXQM0qTfuQ",
+  "alias": "brooklyn-hospital-center-brooklyn-3",
+  "name": "Brooklyn Hospital Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/brooklyn-hospital-center-brooklyn-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 5,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.707687,
+    "longitude": -73.964691
+  },
+  "transactions": [],
+  "location": {
+    "address1": "99 Division Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "99 Division Ave",
+      "Brooklyn, NY 11211"
+    ]
+  },
+  "phone": "+17185996200",
+  "display_phone": "(718) 599-6200",
+  "distance": 5959.874320549668
+},
+{
+  "id": "jDr1XeOTNlmSCbGb221zvg",
+  "alias": "hudson-regional-hospital-secaucus-3",
+  "name": "Hudson Regional Hospital",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cvjCruQF_qINs5SGNFiFyg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hudson-regional-hospital-secaucus-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 16,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.79228,
+    "longitude": -74.07297
+  },
+  "transactions": [],
+  "location": {
+    "address1": "55 Meadowlands Pkwy",
+    "address2": null,
+    "address3": "",
+    "city": "Secaucus",
+    "zip_code": "07094",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+      "55 Meadowlands Pkwy",
+      "Secaucus, NJ 07094"
+    ]
+  },
+  "phone": "+12013923278",
+  "display_phone": "(201) 392-3278",
+  "distance": 8728.572929828393
+},
+{
+  "id": "w6N8hdmpp5UuJKmWkJEG9g",
+  "alias": "mount-sinai-kravis-childrens-hospital-new-york-2",
+  "name": "Mount Sinai Kravis Children's Hospital",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oLYymTVCPVfQ9EoMcWqQ9g/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/mount-sinai-kravis-childrens-hospital-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.7902150908557,
+    "longitude": -73.9540175065666
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1184 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10029",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1184 5th Ave",
+      "New York, NY 10029"
+    ]
+  },
+  "phone": "+12122419500",
+  "display_phone": "(212) 241-9500",
+  "distance": 3913.690658001232
+},
+{
+  "id": "NKQZMwH4DMWABDeFUQXxXg",
+  "alias": "bronx-lebanon-skilled-care-center-bronx",
+  "name": "Bronx Lebanon Skilled Care Center",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/huMQ8KSRjAJ7QM0atdTUag/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/bronx-lebanon-skilled-care-center-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.83169,
+    "longitude": -73.90404
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1275 Fulton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10456",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1275 Fulton Ave",
+      "Bronx, NY 10456"
+    ]
+  },
+  "phone": "+17186810022",
+  "display_phone": "(718) 681-0022",
+  "distance": 10131.138001256852
+},
+{
+  "id": "4m4pTQJV2KaqJ4zoIIy2SA",
+  "alias": "life-alert-new-york",
+  "name": "Life Alert",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/life-alert-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7484567,
+    "longitude": -73.9847452
+  },
+  "transactions": [],
+  "location": {
+    "address1": "350 5th Ave",
+    "address2": "Ste 929",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10118",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "350 5th Ave",
+      "Ste 929",
+      "New York, NY 10118"
+    ]
+  },
+  "phone": "+16467331999",
+  "display_phone": "(646) 733-1999",
+  "distance": 1442.7967670225696
+},
+{
+  "id": "YR1GxhY3uYRe8WijyS1I2A",
+  "alias": "united-hospital-fund-new-york-2",
+  "name": "United Hospital Fund",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/united-hospital-fund-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7541,
+    "longitude": -73.98728
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1411 Broadway",
+    "address2": "Fl 12",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1411 Broadway",
+      "Fl 12",
+      "New York, NY 10018"
+    ]
+  },
+  "phone": "+12124940700",
+  "display_phone": "(212) 494-0700",
+  "distance": 1001.1749773671546
+},
+{
+  "id": "JNxKNowqi0lp6L29T0bUEg",
+  "alias": "nyu-langone-orthopedic-center-new-york",
+  "name": "NYU Langone Orthopedic Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyu-langone-orthopedic-center-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.74669,
+    "longitude": -73.97233
+  },
+  "transactions": [],
+  "location": {
+    "address1": "333 E 38th St",
+    "address2": "",
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "333 E 38th St",
+      "New York, NY 10016"
+    ]
+  },
+  "phone": "",
+  "display_phone": "",
+  "distance": 1587.7378719084063
+},
+{
+  "id": "lRzfYopNQQEOJiu6H7lo7Q",
+  "alias": "thera-care-of-new-york-new-york",
+  "name": "Thera Care of New York",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/thera-care-of-new-york-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7486153,
+    "longitude": -73.9893188
+  },
+  "transactions": [],
+  "location": {
+    "address1": "116 W 32nd St",
+    "address2": "Fl 8",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "116 W 32nd St",
+      "Fl 8",
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12125642350",
+  "display_phone": "(212) 564-2350",
+  "distance": 1594.4676015762589
+},
+{
+  "id": "igPeinsEAH22dB09AyIAXw",
+  "alias": "phillips-beth-israel-school-of-nursing-new-york",
+  "name": "Phillips Beth Israel School of Nursing",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/phillips-beth-israel-school-of-nursing-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.750244140625,
+    "longitude": -73.9970245361328
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12124202000",
+  "display_phone": "(212) 420-2000",
+  "distance": 1885.8104505804376
+},
+{
+  "id": "-z4jCF3VosI57HOZuJTzfA",
+  "alias": "medical-law-perspectives-new-york",
+  "name": "Medical Law Perspectives",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/medical-law-perspectives-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7536854,
+    "longitude": -73.9991637
+  },
+  "transactions": [],
+  "location": {
+    "address1": "220 5th Ave",
+    "address2": "Ste 900",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "220 5th Ave",
+      "Ste 900",
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12122130222",
+  "display_phone": "(212) 213-0222",
+  "distance": 1885.8104505804376
+},
+{
+  "id": "ImeJz0uaEiW3UzppqT6KHg",
+  "alias": "colar-goldwater-memorial-hospital-new-york",
+  "name": "Colar Goldwater Memorial Hospital",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W5-5khsand06lUQI0pq37g/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/colar-goldwater-memorial-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.755105,
+    "longitude": -73.955653
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1 Main St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10044",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1 Main St",
+      "New York, NY 10044"
+    ]
+  },
+  "phone": "+12123082460",
+  "display_phone": "(212) 308-2460",
+  "distance": 1966.7045089363112
+},
+{
+  "id": "EMIkm2ErJ6QHVEmhsoTfmQ",
+  "alias": "gramercy-surgical-center-new-york",
+  "name": "Gramercy Surgical Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/gramercy-surgical-center-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.73671,
+    "longitude": -73.98696
+  },
+  "transactions": [],
+  "location": {
+    "address1": "67 Irving Pl",
+    "address2": "Fl 10",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "67 Irving Pl",
+      "Fl 10",
+      "New York, NY 10003"
+    ]
+  },
+  "phone": "+12122545350",
+  "display_phone": "(212) 254-5350",
+  "distance": 2711.8778592938706
+},
+{
+  "id": "k151jjIltDbD8_idf3s_AQ",
+  "alias": "nyc-health-hospitals-coler-roosevelt-island",
+  "name": "NYC Health + Hospitals/Coler",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pNY1M9rl50bRdJZ7Yli7lQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-coler-roosevelt-island?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7703132951147,
+    "longitude": -73.9422164935062
+  },
+  "transactions": [],
+  "location": {
+    "address1": "900 Main St",
+    "address2": null,
+    "address3": null,
+    "city": "Roosevelt Island",
+    "zip_code": "10044",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "900 Main St",
+      "Roosevelt Island, NY 10044"
+    ]
+  },
+  "phone": "+12128486000",
+  "display_phone": "(212) 848-6000",
+  "distance": 3255.534600802357
+},
+{
+  "id": "p_57nlfYSU5yqSpCvmkEjw",
+  "alias": "our-birthing-center-morristown",
+  "name": "Our Birthing Center",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UBClpkaNd-krTqFzWEzKtQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/our-birthing-center-morristown?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "midwives",
+      "title": "Midwives"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "obgyn",
+      "title": "Obstetricians & Gynecologists"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.80052,
+    "longitude": -74.46104
+  },
+  "transactions": [],
+  "location": {
+    "address1": "25 Lindsley Dr",
+    "address2": "",
+    "address3": null,
+    "city": "Morristown",
+    "zip_code": "07960",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+      "25 Lindsley Dr",
+      "Morristown, NJ 07960"
+    ]
+  },
+  "phone": "+18624442420",
+  "display_phone": "(862) 444-2420",
+  "distance": 40861.56865222267
+},
+{
+  "id": "n98sebBNBOafaYL_Zg7Isw",
+  "alias": "bronx-lebanon-hospital-center-bronx-2",
+  "name": "Bronx-Lebanon Hospital Center",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LoZ1V0T9nJbAHFxeSRIuEA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/bronx-lebanon-hospital-center-bronx-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.831431,
+    "longitude": -73.903175
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1276 Fulton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10456",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1276 Fulton Ave",
+      "Bronx, NY 10456"
+    ]
+  },
+  "phone": "+17185901800",
+  "display_phone": "(718) 590-1800",
+  "distance": 10159.479280848413
+},
+{
+  "id": "P_aPXl5b7j3TtQW_h_FXOg",
+  "alias": "bronx-lebanon-hospital-center-bronx-6",
+  "name": "Bronx-Lebanon Hospital Center",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1M6Y4hLq__-0Ty2lmrQZ7g/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/bronx-lebanon-hospital-center-bronx-6?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.83213,
+    "longitude": -73.90388
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1285 Fulton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10456",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1285 Fulton Ave",
+      "Bronx, NY 10456"
+    ]
+  },
+  "phone": "+17188177181",
+  "display_phone": "(718) 817-7181",
+  "distance": 10173.240067009578
+},
+{
+  "id": "GW0YP3jqCuuaf84eV9Hxxg",
+  "alias": "bronx-lebanon-hospital-center-bronx-9",
+  "name": "Bronx-Lebanon Hospital Center",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2tPtVfSHlQhxVYYlyUtENQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/bronx-lebanon-hospital-center-bronx-9?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.831615,
+    "longitude": -73.904212
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1265 Fulton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10456",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1265 Fulton Ave",
+      "Bronx, NY 10456"
+    ]
+  },
+  "phone": "+17185797000",
+  "display_phone": "(718) 579-7000",
+  "distance": 10115.785953994393
+},
+{
+  "id": "CdajUCps57DutiMRXIcgBg",
+  "alias": "nyc-health-hospitals-gotham-health-cumberland-brooklyn",
+  "name": "NYC Health + Hospitals/Gotham Health, Cumberland",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ifagqEprmVmyqwPd-AXnFg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-gotham-health-cumberland-brooklyn?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.69509,
+    "longitude": -73.97655
+  },
+  "transactions": [],
+  "location": {
+    "address1": "100 North Portland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11205",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "100 North Portland Ave",
+      "Brooklyn, NY 11205"
+    ]
+  },
+  "phone": "+18446924692",
+  "display_phone": "(844) 692-4692",
+  "distance": 7242.536515062979
+},
+{
+  "id": "wXQ_1piHVA9QIEwtdLT-_Q",
+  "alias": "montefiore-medical-center-bronx-23",
+  "name": "Montefiore Medical Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/montefiore-medical-center-bronx-23?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "orthodontists",
+      "title": "Orthodontists"
+    },
+    {
+      "alias": "endodontists",
+      "title": "Endodontists"
+    },
+    {
+      "alias": "oralsurgeons",
+      "title": "Oral Surgeons"
+    },
+    {
+      "alias": "periodontists",
+      "title": "Periodontists"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.812633857131,
+    "longitude": -73.9044036716223
+  },
+  "transactions": [],
+  "location": {
+    "address1": "555 Prospect Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10455",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "555 Prospect Ave",
+      "Bronx, NY 10455"
+    ]
+  },
+  "phone": "+17189206266",
+  "display_phone": "(718) 920-6266",
+  "distance": 8522.314936286088
+},
+{
+  "id": "aZtXeLUy7Fey1zicBlr7Dw",
+  "alias": "brooklyn-hospital-center-brooklyn-2",
+  "name": "Brooklyn Hospital Center",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Lau1vYctwQvfU9gO_vjEWQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/brooklyn-hospital-center-brooklyn-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.6972618,
+    "longitude": -73.9257965
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1280 Dekalb Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11221",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1280 Dekalb Ave",
+      "Brooklyn, NY 11221"
+    ]
+  },
+  "phone": "+17184559000",
+  "display_phone": "(718) 455-9000",
+  "distance": 8287.672905084002
+},
+{
+  "id": "5jbssquW00BHCBAzPfhhLA",
+  "alias": "park-avenue-trauma-brooklyn-2",
+  "name": "Park Avenue Trauma",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/park-avenue-trauma-brooklyn-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "orthopedists",
+      "title": "Orthopedists"
+    },
+    {
+      "alias": "painmanagement",
+      "title": "Pain Management"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.69104,
+    "longitude": -73.99028
+  },
+  "transactions": [],
+  "location": {
+    "address1": "100 Livingston St",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "100 Livingston St",
+      "Fl 2",
+      "Brooklyn, NY 11201"
+    ]
+  },
+  "phone": "+19178180665",
+  "display_phone": "(917) 818-0665",
+  "distance": 7756.3925354393195
+},
+{
+  "id": "4J9V-_12_-qdJIc4tbYc2w",
+  "alias": "nyc-health-hospitals-gotham-health-bronx-bronx",
+  "name": "NYC Health + Hospitals/Gotham Health- Bronx",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TiPlJIJNs9EUbJ7tprfK3A/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-gotham-health-bronx-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.836344,
+    "longitude": -73.920364
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1225 Gerard Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10452",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1225 Gerard Ave",
+      "Bronx, NY 10452"
+    ]
+  },
+  "phone": "+17189602781",
+  "display_phone": "(718) 960-2781",
+  "distance": 9778.054160584841
+},
+{
+  "id": "Ika5Rh29YmK-w-6UVnko7Q",
+  "alias": "long-island-college-hosp-brooklyn",
+  "name": "Long Island College Hosp",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/long-island-college-hosp-brooklyn?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.69246,
+    "longitude": -73.99036
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "Brooklyn, NY 11201"
+    ]
+  },
+  "phone": "+17187801717",
+  "display_phone": "(718) 780-1717",
+  "distance": 6871.340433207359
+},
+{
+  "id": "ihdtQQNvVkGXnGVWwL32ag",
+  "alias": "jackson-heights-family-health-center-jackson-heights",
+  "name": "Jackson Heights Family Health Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/jackson-heights-family-health-center-jackson-heights?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.755097,
+    "longitude": -73.893083
+  },
+  "transactions": [],
+  "location": {
+    "address1": "7315 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Jackson Heights",
+    "zip_code": "11372",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "7315 Northern Blvd",
+      "Jackson Heights, NY 11372"
+    ]
+  },
+  "phone": "+17184242788",
+  "display_phone": "(718) 424-2788",
+  "distance": 7209.62138278002
+},
+{
+  "id": "oW1FzjM17-m8XOMSarJC6g",
+  "alias": "albert-einstein-weiler-hospital-division-of-montefiore-medical-c-bronx",
+  "name": "Albert Einstein-Weiler Hospital Division of Montefiore Medical C",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/albert-einstein-weiler-hospital-division-of-montefiore-medical-c-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.82601,
+    "longitude": -73.92309
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10451",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "Bronx, NY 10451"
+    ]
+  },
+  "phone": "+17189042395",
+  "display_phone": "(718) 904-2395",
+  "distance": 7811.92640363203
+},
+{
+  "id": "bnRxPBzQiFx3_XX6mWtGCg",
+  "alias": "nyu-langone-health-tisch-hospital-new-york",
+  "name": "NYU Langone Health - Tisch Hospital",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/92QodndDsY0gxWhHXwVWmw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyu-langone-health-tisch-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 282,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.742026,
+    "longitude": -73.974231
+  },
+  "transactions": [],
+  "location": {
+    "address1": "550 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "550 1st Ave",
+      "New York, NY 10016"
+    ]
+  },
+  "phone": "+12122635800",
+  "display_phone": "(212) 263-5800",
+  "distance": 2054.2377395612134
+},
+{
+  "id": "k0UILd_DnH_HEQhOJkx_eQ",
+  "alias": "lenox-hill-hospital-new-york-6",
+  "name": "Lenox Hill Hospital",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zI7b5CM8-LZqpUyeEQKqDg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/lenox-hill-hospital-new-york-6?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 219,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.77397,
+    "longitude": -73.96088
+  },
+  "transactions": [],
+  "location": {
+    "address1": "100 E 77th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10075",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "100 E 77th St",
+      "New York, NY 10075"
+    ]
+  },
+  "phone": "+12124342000",
+  "display_phone": "(212) 434-2000",
+  "distance": 2127.1663866877902
+},
+{
+  "id": "mnAD9y0BgiKZ2XFCjGSL-g",
+  "alias": "the-mount-sinai-hospital-new-york-10",
+  "name": "The Mount Sinai Hospital",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4__Sexy4bkHt4JPwW4yTmA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/the-mount-sinai-hospital-new-york-10?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 234,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.7899751,
+    "longitude": -73.9539066
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1468 Madison Avenue",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10029",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1468 Madison Avenue",
+      "New York, NY 10029"
+    ]
+  },
+  "phone": "+12122416500",
+  "display_phone": "(212) 241-6500",
+  "distance": 3903.769065629287
+},
+{
+  "id": "7SaKIxQ3Dx2HFtApUXUuDg",
+  "alias": "mount-sinai-west-new-york-4",
+  "name": "Mount Sinai West",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-NDSn9p6g_b807xpZnyInw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/mount-sinai-west-new-york-4?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 225,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.769518,
+    "longitude": -73.986415
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1000 Tenth Avenue",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1000 Tenth Avenue",
+      "New York, NY 10019"
+    ]
+  },
+  "phone": "+12128579990",
+  "display_phone": "(212) 857-9990",
+  "distance": 1230.608532964598
+},
+{
+  "id": "b2bgbwy7CyqIbBpGWQQOiQ",
+  "alias": "mount-sinai-beth-israel-new-york-4",
+  "name": "Mount Sinai Beth Israel",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jwJuhpOSmy7dINiwfrtgJQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/mount-sinai-beth-israel-new-york-4?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 183,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.7332563154384,
+    "longitude": -73.9820890354126
+  },
+  "transactions": [],
+  "location": {
+    "address1": "281 First Ave",
+    "address2": null,
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "281 First Ave",
+      "New York, NY 10003"
+    ]
+  },
+  "phone": "+12128579980",
+  "display_phone": "(212) 857-9980",
+  "distance": 3012.86140781382
+},
+{
+  "id": "dwkuRYgFoLda9Sl8fODBNA",
+  "alias": "nyc-health-hospitals-bellevue-new-york",
+  "name": "NYC Health + Hospitals/Bellevue",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tw3NKnC-tOYRqnKWajLJKA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-bellevue-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 144,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.73894,
+    "longitude": -73.975339
+  },
+  "transactions": [],
+  "location": {
+    "address1": "462 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "462 1st Ave",
+      "New York, NY 10016"
+    ]
+  },
+  "phone": "+12125624141",
+  "display_phone": "(212) 562-4141",
+  "distance": 2380.6016427517275
+},
+{
+  "id": "z14XLrkCY-xdYLphbj11kw",
+  "alias": "manhattan-eye-ear-and-throat-hospital-new-york",
+  "name": "Manhattan Eye, Ear, and Throat Hospital",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yYH6QLDD5it9ggbZaQn6Bg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/manhattan-eye-ear-and-throat-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 32,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    },
+    {
+      "alias": "emergencyrooms",
+      "title": "Emergency Rooms"
+    }
+  ],
+  "rating": 3.5,
+  "coordinates": {
+    "latitude": 40.76422,
+    "longitude": -73.96348
+  },
+  "transactions": [],
+  "location": {
+    "address1": "210 East 64th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "210 East 64th St",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12123839200",
+  "display_phone": "(212) 383-9200",
+  "distance": 1349.6182042401354
+},
+{
+  "id": "Ew6AA8ymuk69EyIu9hc1dQ",
+  "alias": "newyork-presbyterian-lower-manhattan-hospital-new-york",
+  "name": "NewYork-Presbyterian Lower Manhattan Hospital",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fzFxCx4wYUGfmOGtpFH8ig/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/newyork-presbyterian-lower-manhattan-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 103,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.7104464,
+    "longitude": -74.0055819
+  },
+  "transactions": [],
+  "location": {
+    "address1": "170 William St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "170 William St",
+      "New York, NY 10038"
+    ]
+  },
+  "phone": "+12123125000",
+  "display_phone": "(212) 312-5000",
+  "distance": 5985.955569037708
+},
+{
+  "id": "nvPVxt_-_3PNMbZLZ4NFzg",
+  "alias": "travel-clinic-new-york-3",
+  "name": "Travel Clinic",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tQndXrhhI4pVsZVCdnb2BA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/travel-clinic-new-york-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 6,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4.5,
+  "coordinates": {
+    "latitude": 40.75132,
+    "longitude": -73.98054
+  },
+  "transactions": [],
+  "location": {
+    "address1": "274 Madison Ave",
+    "address2": "Ste 705 A",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "274 Madison Ave",
+      "Ste 705 A",
+      "New York, NY 10016"
+    ]
+  },
+  "phone": "+12126965900",
+  "display_phone": "(212) 696-5900",
+  "distance": 1001.0321298551023
+},
+{
+  "id": "KlGuacnq_Q0-JO30elGCpA",
+  "alias": "roosevelt-hospital-doctors-offices-new-york",
+  "name": "Roosevelt Hospital Doctors Offices",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R6JJV7NP8QjjGRvonT567w/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/roosevelt-hospital-doctors-offices-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 27,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7607250660658,
+    "longitude": -73.9871759712696
+  },
+  "transactions": [],
+  "location": {
+    "address1": "780 8th Ave",
+    "address2": "Ste 303",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "780 8th Ave",
+      "Ste 303",
+      "New York, NY 10036"
+    ]
+  },
+  "phone": "+12126414500",
+  "display_phone": "(212) 641-4500",
+  "distance": 720.7910465177196
+},
+{
+  "id": "8SeI2w6lLcOh4dH1tUaSng",
+  "alias": "new-york-presbyterian-hospital-ny-weill-cornell-medical-center-new-york",
+  "name": "New York Presbyterian Hospital-NY Weill Cornell Medical Center",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WGtETzfOLpslqkufezgMyg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-presbyterian-hospital-ny-weill-cornell-medical-center-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 17,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3.5,
+  "coordinates": {
+    "latitude": 40.76587,
+    "longitude": -73.95522
+  },
+  "transactions": [],
+  "location": {
+    "address1": "435 E 70th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "435 E 70th St",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127461431",
+  "display_phone": "(212) 746-1431",
+  "distance": 2074.168658810754
+},
+{
+  "id": "qi_3Lmok4SCm-sjocVfy0w",
+  "alias": "mount-sinai-st-lukes-new-york-2",
+  "name": "Mount Sinai St. Luke's",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aZw89lub3n3E-RLSPn2opQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/mount-sinai-st-lukes-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 97,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.8056238,
+    "longitude": -73.9612903
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1111 Amsterdam Avenue",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10025",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1111 Amsterdam Avenue",
+      "New York, NY 10025"
+    ]
+  },
+  "phone": "+12128579990",
+  "display_phone": "(212) 857-9990",
+  "distance": 5253.0355504144445
+},
+{
+  "id": "xnxnYwJqWFlPZVMqKjh3qg",
+  "alias": "hoboken-university-medical-center-hoboken-2",
+  "name": "Hoboken University Medical Center",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uhK99fB8Fupjtw3x9f8DBQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hoboken-university-medical-center-hoboken-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 98,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7408807426691,
+    "longitude": -74.0337042510509
+  },
+  "transactions": [],
+  "location": {
+    "address1": "308 Willow Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Hoboken",
+    "zip_code": "07030",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+      "308 Willow Ave",
+      "Hoboken, NJ 07030"
+    ]
+  },
+  "phone": "+12014181000",
+  "display_phone": "(201) 418-1000",
+  "distance": 5134.800671912648
+},
+{
+  "id": "3wjluDyIbgfDbDlaHUvj7Q",
+  "alias": "rusk-rehabilitation-new-york",
+  "name": "Rusk Rehabilitation",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6e5XG0aIQ9MgQS7FxaGAQA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/rusk-rehabilitation-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    },
+    {
+      "alias": "rehabilitation_center",
+      "title": "Rehabilitation Center"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.7343037,
+    "longitude": -73.9832919
+  },
+  "transactions": [],
+  "location": {
+    "address1": "301 East 17th St",
+    "address2": "",
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "301 East 17th St",
+      "New York, NY 10003"
+    ]
+  },
+  "phone": "",
+  "display_phone": "",
+  "distance": 2901.0701995369072
+},
+{
+  "id": "ZlVm68mijCoO2W6PakVpYQ",
+  "alias": "nyc-health-hospitals-harlem-new-york",
+  "name": "NYC Health + Hospitals/Harlem",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DIxZLuSkGSA_HVpJ3u3yqg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-harlem-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 47,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.814447,
+    "longitude": -73.939416
+  },
+  "transactions": [],
+  "location": {
+    "address1": "506 Lenox Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10037",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "506 Lenox Ave",
+      "New York, NY 10037"
+    ]
+  },
+  "phone": "+12129391000",
+  "display_phone": "(212) 939-1000",
+  "distance": 6869.665499913083
+},
+{
+  "id": "fmOSwu1AqLaFyMCO3Lfq8w",
+  "alias": "ichan-school-of-medicine-at-mount-sinai-new-york-2",
+  "name": "Ichan School of Medicine at Mount Sinai",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H6HzbKj4oT4znBcNcqgbUw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/ichan-school-of-medicine-at-mount-sinai-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 8,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "collegeuniv",
+      "title": "Colleges & Universities"
+    }
+  ],
+  "rating": 3.5,
+  "coordinates": {
+    "latitude": 40.7899899,
+    "longitude": -73.953689
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1468 Madison Avenue",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10029",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1468 Madison Avenue",
+      "New York, NY 10029"
+    ]
+  },
+  "phone": "+12122416696",
+  "display_phone": "(212) 241-6696",
+  "distance": 3914.911733676594
+},
+{
+  "id": "HRVn89wJMDfvXzQtCZo80Q",
+  "alias": "va-ny-harbor-healthcare-system-new-york",
+  "name": "VA NY Harbor Healthcare System",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5UvztoXfbyGLJVA2xHcFgQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/va-ny-harbor-healthcare-system-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 23,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.7365954,
+    "longitude": -73.9775222
+  },
+  "transactions": [],
+  "location": {
+    "address1": "423 E 23rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "423 E 23rd St",
+      "New York, NY 10010"
+    ]
+  },
+  "phone": "+12126867500",
+  "display_phone": "(212) 686-7500",
+  "distance": 2565.5301277153744
+},
+{
+  "id": "xP12HyDs1BCMEQJDQA82Dg",
+  "alias": "dubin-breast-center-mount-sinai-new-york",
+  "name": "Dubin Breast Center - Mount Sinai",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mUbIuRLiIqxBRuckhwIrDg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/dubin-breast-center-mount-sinai-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 11,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "obgyn",
+      "title": "Obstetricians & Gynecologists"
+    }
+  ],
+  "rating": 3.5,
+  "coordinates": {
+    "latitude": 40.7896285504103,
+    "longitude": -73.9544456452131
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1176 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10029",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1176 5th Ave",
+      "New York, NY 10029"
+    ]
+  },
+  "phone": "+12122413806",
+  "display_phone": "(212) 241-3806",
+  "distance": 3853.6927352204134
+},
+{
+  "id": "kvzEybcXCEWL1oC7ITR-Dw",
+  "alias": "nyc-health-hospitals-metropolitan-new-york",
+  "name": "NYC Health + Hospitals/Metropolitan",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bnkCoIhDmOn6sPSIzFr1Uw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-metropolitan-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 41,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": null,
+    "longitude": null
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1901 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10029",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1901 1st Ave",
+      "New York, NY 10029"
+    ]
+  },
+  "phone": "+12124236262",
+  "display_phone": "(212) 423-6262",
+  "distance": 3959.5642431285846
+},
+{
+  "id": "oHRHxMFk0Pudq9dFLVVJTw",
+  "alias": "mount-sinai-queens-astoria",
+  "name": "Mount Sinai Queens",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O2rP61Cfns5_VgG1Q3vQ1Q/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/mount-sinai-queens-astoria?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 162,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.7682496,
+    "longitude": -73.9248402
+  },
+  "transactions": [],
+  "location": {
+    "address1": "25-10 30th Avenue",
+    "address2": "",
+    "address3": "",
+    "city": "Astoria",
+    "zip_code": "11102",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "25-10 30th Avenue",
+      "Astoria, NY 11102"
+    ]
+  },
+  "phone": "+17182893100",
+  "display_phone": "(718) 289-3100",
+  "distance": 4606.683649188039
+},
+{
+  "id": "aKWtDFGa1nCgqJ0YnJ0tVA",
+  "alias": "gotham-medical-group-new-york",
+  "name": "Gotham Medical Group",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eptuK9kD44dsMQaZCCK8Dg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/gotham-medical-group-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 8,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3.5,
+  "coordinates": {
+    "latitude": 40.7398643493652,
+    "longitude": -74.003532409668
+  },
+  "transactions": [],
+  "location": {
+    "address1": "314 W 14th St",
+    "address2": "Fl 5",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "314 W 14th St",
+      "Fl 5",
+      "New York, NY 10014"
+    ]
+  },
+  "phone": "+12126200144",
+  "display_phone": "(212) 620-0144",
+  "distance": 3086.843926044356
+},
+{
+  "id": "rozEyxrEwKSeXYL0Z9KFGA",
+  "alias": "gouverneur-diagnostic-and-treatment-center-new-york",
+  "name": "Gouverneur Diagnostic & Treatment Center",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8si2cLe2oIp59m_13JzeAA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/gouverneur-diagnostic-and-treatment-center-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "rehabilitation_center",
+      "title": "Rehabilitation Center"
+    }
+  ],
+  "rating": 4.5,
+  "coordinates": {
+    "latitude": 40.7132,
+    "longitude": -73.98778
+  },
+  "transactions": [],
+  "location": {
+    "address1": "227 Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "227 Madison St",
+      "New York, NY 10002"
+    ]
+  },
+  "phone": "+12129255000",
+  "display_phone": "(212) 925-5000",
+  "distance": 5295.564089698118
+},
+{
+  "id": "HTsxom6VM2Fo2LeXlINZNw",
+  "alias": "nyc-health-hospitals-gotham-health-gouverneur-new-york-4",
+  "name": "NYC Health + Hospitals/Gotham Health - Gouverneur",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kNOYlApfcKf4ecKL1sEmfw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-gotham-health-gouverneur-new-york-4?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 20,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.713128,
+    "longitude": -73.9877376
+  },
+  "transactions": [],
+  "location": {
+    "address1": "227 Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "227 Madison St",
+      "New York, NY 10002"
+    ]
+  },
+  "phone": "+18446924692",
+  "display_phone": "(844) 692-4692",
+  "distance": 5293.346903343309
+},
+{
+  "id": "KrlWEtJamvWblZfdIpyc_w",
+  "alias": "hockstein-steven-md-new-york",
+  "name": "Hockstein Steven MD",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hockstein-steven-md-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4.5,
+  "coordinates": {
+    "latitude": 40.7670989,
+    "longitude": -73.9546658
+  },
+  "transactions": [],
+  "location": {
+    "address1": "428 E 72nd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "428 E 72nd St",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127464900",
+  "display_phone": "(212) 746-4900",
+  "distance": 2134.875509221619
+},
+{
+  "id": "jhdMmUAYC4jy8MrBotWMrA",
+  "alias": "eisenbach-zacharia-rabbi-new-york",
+  "name": "Eisenbach Zacharia Rabbi",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PFVKlsvw3aKPupfeKGDsCA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/eisenbach-zacharia-rabbi-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.71463,
+    "longitude": -73.98182
+  },
+  "transactions": [],
+  "location": {
+    "address1": "504 Grand St",
+    "address2": "Ste M3",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "504 Grand St",
+      "Ste M3",
+      "New York, NY 10002"
+    ]
+  },
+  "phone": "+12126748840",
+  "display_phone": "(212) 674-8840",
+  "distance": 5063.2999130186145
+},
+{
+  "id": "YPOOvv7mXTfumjSnLj-T_w",
+  "alias": "cancer-care-new-york",
+  "name": "Cancer Care",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/cancer-care-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 4,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4,
+  "coordinates": {
+    "latitude": 40.74555,
+    "longitude": -73.9941599
+  },
+  "transactions": [],
+  "location": {
+    "address1": "275 7th Avenue Ph",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "275 7th Avenue Ph",
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12127128400",
+  "display_phone": "(212) 712-8400",
+  "distance": 2095.630605658933
+},
+{
+  "id": "9Dxp_y_jZf2BQ_1cmN7W_A",
+  "alias": "palisades-general-hospital-north-bergen",
+  "name": "Palisades General Hospital",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DYT5kM8MIa7hudBNNpfyFg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/palisades-general-hospital-north-bergen?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 90,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.7935273590165,
+    "longitude": -73.9960845937414
+  },
+  "transactions": [],
+  "location": {
+    "address1": "7600 River Rd",
+    "address2": "",
+    "address3": "",
+    "city": "North Bergen",
+    "zip_code": "07047",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+      "7600 River Rd",
+      "North Bergen, NJ 07047"
+    ]
+  },
+  "phone": "+12018545000",
+  "display_phone": "(201) 854-5000",
+  "distance": 3989.1358407767634
+},
+{
+  "id": "CRldkXHMV-tlRjyEuu4sQQ",
+  "alias": "the-brooklyn-hospital-center-brooklyn-2",
+  "name": "The Brooklyn Hospital Center",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Xg7vdiU5QmmWm-u0eLTnFg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/the-brooklyn-hospital-center-brooklyn-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 154,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.690853,
+    "longitude": -73.977995
+  },
+  "transactions": [],
+  "location": {
+    "address1": "121 Dekalb Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "121 Dekalb Ave",
+      "Brooklyn, NY 11201"
+    ]
+  },
+  "phone": "+17182508000",
+  "display_phone": "(718) 250-8000",
+  "distance": 7712.801600133367
+},
+{
+  "id": "2vu8R_asO24vCXkA8l9qmg",
+  "alias": "nyc-health-hospitals-elmhurst-elmhurst",
+  "name": "NYC Health + Hospitals/Elmhurst",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S4u6xCc6SOND2PjNYESMRg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-elmhurst-elmhurst?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 233,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1.5,
+  "coordinates": {
+    "latitude": 40.7451099,
+    "longitude": -73.8856
+  },
+  "transactions": [],
+  "location": {
+    "address1": "79-01 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Elmhurst",
+    "zip_code": "11373",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "79-01 Broadway",
+      "Elmhurst, NY 11373"
+    ]
+  },
+  "phone": "+17183344000",
+  "display_phone": "(718) 334-4000",
+  "distance": 7989.451735108705
+},
+{
+  "id": "EZePcZZBu2kZyXspvr3etQ",
+  "alias": "gracie-square-hospital-new-york-2",
+  "name": "Gracie Square Hospital",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9OSjzgg9qtBDOPH9MeunIQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/gracie-square-hospital-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 25,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1.5,
+  "coordinates": {
+    "latitude": 40.7696605749972,
+    "longitude": -73.952994868129
+  },
+  "transactions": [],
+  "location": {
+    "address1": "420 E 76th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "420 E 76th St",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12129884400",
+  "display_phone": "(212) 988-4400",
+  "distance": 2391.0639713993683
+},
+{
+  "id": "rCeca4oQsed5t4AIqh39AQ",
+  "alias": "semih-gungor-md-new-york",
+  "name": "Semih Gungor Md.",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/semih-gungor-md-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.76586,
+    "longitude": -73.95248
+  },
+  "transactions": [],
+  "location": {
+    "address1": "525 E 71st St",
+    "address2": "Apt 7I",
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "525 E 71st St",
+      "Apt 7I",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127742176",
+  "display_phone": "(212) 774-2176",
+  "distance": 2287.2383412671466
+},
+{
+  "id": "xL4FK6VGhmemL__fyPEl8g",
+  "alias": "hospital-for-joint-diseases-orthopaedic-institute-new-york",
+  "name": "Hospital For Joint Diseases Orthopaedic Institute",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hospital-for-joint-diseases-orthopaedic-institute-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.73698,
+    "longitude": -73.98135
+  },
+  "transactions": [],
+  "location": {
+    "address1": "380 2nd Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "380 2nd Ave",
+      "New York, NY 10010"
+    ]
+  },
+  "phone": "+12124600196",
+  "display_phone": "(212) 460-0196",
+  "distance": 2594.5736708974614
+},
+{
+  "id": "dbQ4i2k1phNIbLoMI9A1IA",
+  "alias": "christ-hospital-new-jersey",
+  "name": "Christ Hospital",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0dHR2ni1VhPj-SOYqSdN_Q/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/christ-hospital-new-jersey?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 51,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.73417,
+    "longitude": -74.04977
+  },
+  "transactions": [],
+  "location": {
+    "address1": "176 Palisade Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New Jersey",
+    "zip_code": "07306",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+      "176 Palisade Ave",
+      "New Jersey, NJ 07306"
+    ]
+  },
+  "phone": "+12017958200",
+  "display_phone": "(201) 795-8200",
+  "distance": 6663.662035025483
+},
+{
+  "id": "Lh3Vz4b5dJuS8Y8YLmuNnw",
+  "alias": "new-york-presbyterian-hospital-new-york-weill-cornell-medical-ce-new-york-15",
+  "name": "New York Presbyterian Hospital-New York Weill Cornell Medical Ce",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Eculzg8w68PiWF8Tt95t-w/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-presbyterian-hospital-new-york-weill-cornell-medical-ce-new-york-15?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 4,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.76442,
+    "longitude": -73.95393
+  },
+  "transactions": [],
+  "location": {
+    "address1": "530 E 70th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "530 E 70th St",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127465383",
+  "display_phone": "(212) 746-5383",
+  "distance": 2121.3102783053273
+},
+{
+  "id": "qS6HCtaygFQFQZbX0UuwaA",
+  "alias": "ny-downtown-hospital-new-york",
+  "name": "NY Downtown Hospital",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4moOsf_vLcGodZDykCVFWw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/ny-downtown-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 13,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.7104831750515,
+    "longitude": -74.0054543919249
+  },
+  "transactions": [],
+  "location": {
+    "address1": "170 William St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "170 William St",
+      "New York, NY 10002"
+    ]
+  },
+  "phone": "+12123125110",
+  "display_phone": "(212) 312-5110",
+  "distance": 5979.679766934556
+},
+{
+  "id": "jhp9lH2n5IJpgjBi2DnSmg",
+  "alias": "new-york-downtown-wic-program-new-york",
+  "name": "New York Downtown WIC Program",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nSMMqL7NPj3fGbGGtpnxtw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-downtown-wic-program-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.70961,
+    "longitude": -74.00511
+  },
+  "transactions": [],
+  "location": {
+    "address1": "69 Gold St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "69 Gold St",
+      "New York, NY 10038"
+    ]
+  },
+  "phone": "+12123125831",
+  "display_phone": "(212) 312-5831",
+  "distance": 6014.218526375831
+},
+{
+  "id": "G1pcKQ_T4X-SpVjbgJDzkQ",
+  "alias": "beth-israel-orthopedic-associates-new-york",
+  "name": "Beth Israel Orthopedic Associates",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/beth-israel-orthopedic-associates-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 4,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7350197,
+    "longitude": -73.9898376
+  },
+  "transactions": [],
+  "location": {
+    "address1": "10 Union Sq E",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "10 Union Sq E",
+      "New York, NY 10003"
+    ]
+  },
+  "phone": "+12128448550",
+  "display_phone": "(212) 844-8550",
+  "distance": 2978.353275887603
+},
+{
+  "id": "5Y3kKA47lt3sAE5mA11BPw",
+  "alias": "hospital-league-local-1199-new-york",
+  "name": "Hospital League Local 1199",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hospital-league-local-1199-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7575,
+    "longitude": -73.99157
+  },
+  "transactions": [],
+  "location": {
+    "address1": "330 W 42nd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "330 W 42nd St",
+      "New York, NY 10036"
+    ]
+  },
+  "phone": "+12124940500",
+  "display_phone": "(212) 494-0500",
+  "distance": 1144.5354575189433
+},
+{
+  "id": "vrPAnjq_HYNW6hQ_bEhA2A",
+  "alias": "new-gouverneur-hospital-s-n-f-new-york",
+  "name": "New Gouverneur Hospital S N F",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6CAjpog5FzSA5YMr1QJplw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-gouverneur-hospital-s-n-f-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7131996,
+    "longitude": -73.9877777
+  },
+  "transactions": [],
+  "location": {
+    "address1": "227 Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "227 Madison St",
+      "New York, NY 10002"
+    ]
+  },
+  "phone": "+12124415000",
+  "display_phone": "(212) 441-5000",
+  "distance": 5295.564089698118
+},
+{
+  "id": "n-zUxy1QMrU51nCnLll7yg",
+  "alias": "hospital-league-1199-training-and-upgrading-fund-new-york",
+  "name": "Hospital League 1199 Training & Upgrading Fund",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hospital-league-1199-training-and-upgrading-fund-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4,
+  "coordinates": {
+    "latitude": 40.7575,
+    "longitude": -73.99157
+  },
+  "transactions": [],
+  "location": {
+    "address1": "330 W 42nd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "330 W 42nd St",
+      "New York, NY 10036"
+    ]
+  },
+  "phone": "+12126439340",
+  "display_phone": "(212) 643-9340",
+  "distance": 1144.5354575189433
+},
+{
+  "id": "ruUUOWx9f6TaYY1J9R7a_Q",
+  "alias": "coler-goldwater-fac-new-york",
+  "name": "Coler Goldwater Fac",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/coler-goldwater-fac-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4,
+  "coordinates": {
+    "latitude": 40.755105,
+    "longitude": -73.955653
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1 Main St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10044",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1 Main St",
+      "New York, NY 10044"
+    ]
+  },
+  "phone": "+12123037280",
+  "display_phone": "(212) 303-7280",
+  "distance": 1966.7045089363112
+},
+{
+  "id": "Yonn0EmLdDjMpKCoBn-cXw",
+  "alias": "nyc-health-hospitals-woodhull-brooklyn",
+  "name": "NYC Health + Hospitals/Woodhull",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8YR1UhxOsaLT7CqhKV96iw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-woodhull-brooklyn?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 47,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.6994789462892,
+    "longitude": -73.9426392316818
+  },
+  "transactions": [],
+  "location": {
+    "address1": "760 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11206",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "760 Broadway",
+      "Brooklyn, NY 11206"
+    ]
+  },
+  "phone": "+17189638000",
+  "display_phone": "(718) 963-8000",
+  "distance": 7398.723726555112
+},
+{
+  "id": "7RJJMmho_wXXwjooZtN2sw",
+  "alias": "nyc-health-hospitals-lincoln-bronx",
+  "name": "NYC Health + Hospitals/Lincoln",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GJewHIvpvPQISJ9iLFASgA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-lincoln-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 38,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.8171394917314,
+    "longitude": -73.9234367716692
+  },
+  "transactions": [],
+  "location": {
+    "address1": "234 East 149th St",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10451",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "234 East 149th St",
+      "Bronx, NY 10451"
+    ]
+  },
+  "phone": "+17185795000",
+  "display_phone": "(718) 579-5000",
+  "distance": 7845.706825885843
+},
+{
+  "id": "lLxDl8kj8yIdm9-bf4hz2w",
+  "alias": "new-york-presbyterian-hospital-new-york-weill-cornell-medical-ce-new-york-11",
+  "name": "New York Presbyterian Hospital-New York Weill Cornell Medical Ce",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vPTS-SbwNmtpmLkOrXC8Sg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-presbyterian-hospital-new-york-weill-cornell-medical-ce-new-york-11?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7610607,
+    "longitude": -73.9581243
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1167 York Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1167 York Ave",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127466972",
+  "display_phone": "(212) 746-6972",
+  "distance": 1716.8291129855536
+},
+{
+  "id": "T5hp-z7Kpl3mLkcjCjfFUw",
+  "alias": "the-society-of-the-ny-hospital-new-york",
+  "name": "The Society Of The NY Hospital",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/the-society-of-the-ny-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7642746,
+    "longitude": -73.9552307
+  },
+  "transactions": [],
+  "location": {
+    "address1": "525 E 68th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10065",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "525 E 68th St",
+      "New York, NY 10065"
+    ]
+  },
+  "phone": "+12127464311",
+  "display_phone": "(212) 746-4311",
+  "distance": 2090.500435532844
+},
+{
+  "id": "amcKB6KvykBrIGsrMPMS5Q",
+  "alias": "st-vincent-hospital-ems-new-york",
+  "name": "St. Vincent Hospital EMS",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/st-vincent-hospital-ems-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7390174865723,
+    "longitude": -73.9842987060547
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10159",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "New York, NY 10159"
+    ]
+  },
+  "phone": "+18667599241",
+  "display_phone": "(866) 759-9241",
+  "distance": 2364.4882565102644
+},
+{
+  "id": "o1Uz8Zq3pavQVO2xTxo7ag",
+  "alias": "henry-j-carter-specialty-hospital-and-nursing-facility-new-york",
+  "name": "Henry J Carter Specialty Hospital & Nursing Facility",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1s5oySFiCkQOQytc_zznKA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/henry-j-carter-specialty-hospital-and-nursing-facility-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 6,
+  "categories": [
+    {
+      "alias": "skillednursing",
+      "title": "Skilled Nursing"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.803001,
+    "longitude": -73.941116
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1752 Park Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10035",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1752 Park Ave",
+      "New York, NY 10035"
+    ]
+  },
+  "phone": "+12126860000",
+  "display_phone": "(212) 686-0000",
+  "distance": 5716.596400332128
+},
+{
+  "id": "xTnyHFSfCAHzHO9acLQALA",
+  "alias": "new-york-downtown-hospital-new-york-3",
+  "name": "New York Downtown Hospital",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/64aHAlAQplIY3pdZ1SlFbg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-downtown-hospital-new-york-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.70852,
+    "longitude": -74.00735
+  },
+  "transactions": [],
+  "location": {
+    "address1": "100 William St",
+    "address2": "Fl 5",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "100 William St",
+      "Fl 5",
+      "New York, NY 10038"
+    ]
+  },
+  "phone": "+12124441939",
+  "display_phone": "(212) 444-1939",
+  "distance": 6251.008751664266
+},
+{
+  "id": "HFJ4bqKivDWwsQmGyx0bLg",
+  "alias": "christopher-j-dimaio-manhattan",
+  "name": "Christopher J DiMaio",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/christopher-j-dimaio-manhattan?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7891370356083,
+    "longitude": -73.9545247703791
+  },
+  "transactions": [],
+  "location": {
+    "address1": "5 E 98th St",
+    "address2": "Fl 11",
+    "address3": "",
+    "city": "Manhattan",
+    "zip_code": "10029",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "5 E 98th St",
+      "Fl 11",
+      "Manhattan, NY 10029"
+    ]
+  },
+  "phone": "+12122414299",
+  "display_phone": "(212) 241-4299",
+  "distance": 3793.077371412197
+},
+{
+  "id": "tl7bSu0WrrN24u2YipqcIA",
+  "alias": "beekman-downtown-hospital-new-york",
+  "name": "Beekman Downtown Hospital",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/beekman-downtown-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.750244140625,
+    "longitude": -73.9970245361328
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12123125000",
+  "display_phone": "(212) 312-5000",
+  "distance": 1885.8104505804376
+},
+{
+  "id": "ruUUOWx9f6TaYY1J9R7a_Q",
+  "alias": "coler-goldwater-fac-new-york",
+  "name": "Coler Goldwater Fac",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/coler-goldwater-fac-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4,
+  "coordinates": {
+    "latitude": 40.755105,
+    "longitude": -73.955653
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1 Main St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10044",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1 Main St",
+      "New York, NY 10044"
+    ]
+  },
+  "phone": "+12123037280",
+  "display_phone": "(212) 303-7280",
+  "distance": 1966.7045089363112
+},
+{
+  "id": "Yonn0EmLdDjMpKCoBn-cXw",
+  "alias": "nyc-health-hospitals-woodhull-brooklyn",
+  "name": "NYC Health + Hospitals/Woodhull",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8YR1UhxOsaLT7CqhKV96iw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-woodhull-brooklyn?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 47,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.6994789462892,
+    "longitude": -73.9426392316818
+  },
+  "transactions": [],
+  "location": {
+    "address1": "760 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11206",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "760 Broadway",
+      "Brooklyn, NY 11206"
+    ]
+  },
+  "phone": "+17189638000",
+  "display_phone": "(718) 963-8000",
+  "distance": 7398.723726555112
+},
+{
+  "id": "7RJJMmho_wXXwjooZtN2sw",
+  "alias": "nyc-health-hospitals-lincoln-bronx",
+  "name": "NYC Health + Hospitals/Lincoln",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GJewHIvpvPQISJ9iLFASgA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-lincoln-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 38,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.8171394917314,
+    "longitude": -73.9234367716692
+  },
+  "transactions": [],
+  "location": {
+    "address1": "234 East 149th St",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10451",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "234 East 149th St",
+      "Bronx, NY 10451"
+    ]
+  },
+  "phone": "+17185795000",
+  "display_phone": "(718) 579-5000",
+  "distance": 7845.706825885843
+},
+{
+  "id": "lLxDl8kj8yIdm9-bf4hz2w",
+  "alias": "new-york-presbyterian-hospital-new-york-weill-cornell-medical-ce-new-york-11",
+  "name": "New York Presbyterian Hospital-New York Weill Cornell Medical Ce",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vPTS-SbwNmtpmLkOrXC8Sg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-presbyterian-hospital-new-york-weill-cornell-medical-ce-new-york-11?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7610607,
+    "longitude": -73.9581243
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1167 York Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1167 York Ave",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127466972",
+  "display_phone": "(212) 746-6972",
+  "distance": 1716.8291129855536
+},
+{
+  "id": "T5hp-z7Kpl3mLkcjCjfFUw",
+  "alias": "the-society-of-the-ny-hospital-new-york",
+  "name": "The Society Of The NY Hospital",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/the-society-of-the-ny-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7642746,
+    "longitude": -73.9552307
+  },
+  "transactions": [],
+  "location": {
+    "address1": "525 E 68th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10065",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "525 E 68th St",
+      "New York, NY 10065"
+    ]
+  },
+  "phone": "+12127464311",
+  "display_phone": "(212) 746-4311",
+  "distance": 2090.500435532844
+},
+{
+  "id": "amcKB6KvykBrIGsrMPMS5Q",
+  "alias": "st-vincent-hospital-ems-new-york",
+  "name": "St. Vincent Hospital EMS",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/st-vincent-hospital-ems-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7390174865723,
+    "longitude": -73.9842987060547
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10159",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "New York, NY 10159"
+    ]
+  },
+  "phone": "+18667599241",
+  "display_phone": "(866) 759-9241",
+  "distance": 2364.4882565102644
+},
+{
+  "id": "o1Uz8Zq3pavQVO2xTxo7ag",
+  "alias": "henry-j-carter-specialty-hospital-and-nursing-facility-new-york",
+  "name": "Henry J Carter Specialty Hospital & Nursing Facility",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1s5oySFiCkQOQytc_zznKA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/henry-j-carter-specialty-hospital-and-nursing-facility-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 6,
+  "categories": [
+    {
+      "alias": "skillednursing",
+      "title": "Skilled Nursing"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.803001,
+    "longitude": -73.941116
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1752 Park Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10035",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1752 Park Ave",
+      "New York, NY 10035"
+    ]
+  },
+  "phone": "+12126860000",
+  "display_phone": "(212) 686-0000",
+  "distance": 5716.596400332128
+},
+{
+  "id": "xTnyHFSfCAHzHO9acLQALA",
+  "alias": "new-york-downtown-hospital-new-york-3",
+  "name": "New York Downtown Hospital",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/64aHAlAQplIY3pdZ1SlFbg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-downtown-hospital-new-york-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.70852,
+    "longitude": -74.00735
+  },
+  "transactions": [],
+  "location": {
+    "address1": "100 William St",
+    "address2": "Fl 5",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "100 William St",
+      "Fl 5",
+      "New York, NY 10038"
+    ]
+  },
+  "phone": "+12124441939",
+  "display_phone": "(212) 444-1939",
+  "distance": 6251.008751664266
+},
+{
+  "id": "HFJ4bqKivDWwsQmGyx0bLg",
+  "alias": "christopher-j-dimaio-manhattan",
+  "name": "Christopher J DiMaio",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/christopher-j-dimaio-manhattan?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7891370356083,
+    "longitude": -73.9545247703791
+  },
+  "transactions": [],
+  "location": {
+    "address1": "5 E 98th St",
+    "address2": "Fl 11",
+    "address3": "",
+    "city": "Manhattan",
+    "zip_code": "10029",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "5 E 98th St",
+      "Fl 11",
+      "Manhattan, NY 10029"
+    ]
+  },
+  "phone": "+12122414299",
+  "display_phone": "(212) 241-4299",
+  "distance": 3793.077371412197
+},
+{
+  "id": "tl7bSu0WrrN24u2YipqcIA",
+  "alias": "beekman-downtown-hospital-new-york",
+  "name": "Beekman Downtown Hospital",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/beekman-downtown-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.750244140625,
+    "longitude": -73.9970245361328
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12123125000",
+  "display_phone": "(212) 312-5000",
+  "distance": 1885.8104505804376
+},
+{
+  "id": "hW02-FV8kf1dcIq3ALqNSg",
+  "alias": "new-york-presbyterian-hospital-new-york-3",
+  "name": "New York Presbyterian Hospital",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-presbyterian-hospital-new-york-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.75179,
+    "longitude": -73.98983
+  },
+  "transactions": [],
+  "location": {
+    "address1": "463 Fashion Ave",
+    "address2": null,
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "463 Fashion Ave",
+      "New York, NY 10018"
+    ]
+  },
+  "phone": "+12126327400",
+  "display_phone": "(212) 632-7400",
+  "distance": 1326.1654321366807
+},
+{
+  "id": "1BfzpNzFQ79W1RdBeGFXpw",
+  "alias": "weiland-andrew-j-dr-new-york",
+  "name": "Weiland Andrew J Dr",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/weiland-andrew-j-dr-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7650937139988,
+    "longitude": -73.9535001665354
+  },
+  "transactions": [],
+  "location": {
+    "address1": "535 E 70th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "535 E 70th St",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12126061000",
+  "display_phone": "(212) 606-1000",
+  "distance": 2261.2154974896207
+},
+{
+  "id": "H72mCWLA0b4PSEXG01C5FQ",
+  "alias": "ribakove-greg-h-md-new-york",
+  "name": "Ribakove Greg H MD",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/ribakove-greg-h-md-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.7417597,
+    "longitude": -73.974786
+  },
+  "transactions": [],
+  "location": {
+    "address1": "530 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "530 1st Ave",
+      "New York, NY 10016"
+    ]
+  },
+  "phone": "+12122636516",
+  "display_phone": "(212) 263-6516",
+  "distance": 2120.2886106824517
+},
+{
+  "id": "TqhMPaq6uqyf1bGxb2E3Kg",
+  "alias": "new-york-presbyterian-hospital-new-york-10",
+  "name": "New York Presbyterian Hospital",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-presbyterian-hospital-new-york-10?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.76597,
+    "longitude": -73.95417
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1324 York Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1324 York Ave",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127461459",
+  "display_phone": "(212) 746-1459",
+  "distance": 2146.409068768471
+},
+{
+  "id": "y0dLwfbyYKUp_47wX7WjFA",
+  "alias": "continuum-cancer-center-radiation-oncology-new-york",
+  "name": "Continuum Cancer Center Radiation Oncology",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/M9dDXGGVbaN_WEqH7YExZg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/continuum-cancer-center-radiation-oncology-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "medcenters",
+      "title": "Medical Centers"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.7408981,
+    "longitude": -74.0027313
+  },
+  "transactions": [],
+  "location": {
+    "address1": "325 W 15th St",
+    "address2": null,
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "325 W 15th St",
+      "New York, NY 10011"
+    ]
+  },
+  "phone": "+12123671801",
+  "display_phone": "(212) 367-1801",
+  "distance": 2979.237351431984
+},
+{
+  "id": "_mhJbrQoL9mB-7rAX9qgiQ",
+  "alias": "cobble-hill-nursing-home-brooklyn",
+  "name": "Cobble Hill Nursing Home",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/of5Y9KKyK6oAA1kbteM39g/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/cobble-hill-nursing-home-brooklyn?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 8,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.68844,
+    "longitude": -73.99755
+  },
+  "transactions": [],
+  "location": {
+    "address1": "380 Henry St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "380 Henry St",
+      "Brooklyn, NY 11201"
+    ]
+  },
+  "phone": "+17188556789",
+  "display_phone": "(718) 855-6789",
+  "distance": 8138.519558344451
+},
+{
+  "id": "yl8WFHn9CIJiA_i4y1zmrA",
+  "alias": "local-1199-hospital-and-health-care-employees-union-rwdsu-afl-cio-new-york",
+  "name": "Local 1199 Hospital & Health Care Employees Union Rwdsu Afl-CIO",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/local-1199-hospital-and-health-care-employees-union-rwdsu-afl-cio-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.75811,
+    "longitude": -73.99002
+  },
+  "transactions": [],
+  "location": {
+    "address1": "310 W 43rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "310 W 43rd St",
+      "New York, NY 10036"
+    ]
+  },
+  "phone": "+12125821890",
+  "display_phone": "(212) 582-1890",
+  "distance": 1000.602651347435
+},
+{
+  "id": "JblN-U3AQeUfyQQE0ovx7A",
+  "alias": "school-based-health-clinic-at-norman-thomas-new-york",
+  "name": "School Based Health Clinic At Norman Thomas",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/school-based-health-clinic-at-norman-thomas-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.74651,
+    "longitude": -73.98105
+  },
+  "transactions": [],
+  "location": {
+    "address1": "111 E 33rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "111 E 33rd St",
+      "New York, NY 10016"
+    ]
+  },
+  "phone": "+12126861522",
+  "display_phone": "(212) 686-1522",
+  "distance": 1548.515310945341
+},
+{
+  "id": "x4jz0a19Si0BhfftElEjvQ",
+  "alias": "village-primary-care-new-york",
+  "name": "Village Primary Care",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/village-primary-care-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.73987,
+    "longitude": -74.00353
+  },
+  "transactions": [],
+  "location": {
+    "address1": "314 W 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "314 W 14th St",
+      "New York, NY 10014"
+    ]
+  },
+  "phone": "+12122066560",
+  "display_phone": "(212) 206-6560",
+  "distance": 3087.119757309264
+},
+{
+  "id": "50BkZU3XoWqFtbgq2RoOPw",
+  "alias": "new-york-hospital-queens-long-island-city",
+  "name": "New York Hospital Queens",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-hospital-queens-long-island-city?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4,
+  "coordinates": {
+    "latitude": 40.76366,
+    "longitude": -73.91389
+  },
+  "transactions": [],
+  "location": {
+    "address1": "41-01 30th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Long Island City",
+    "zip_code": "11103",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "41-01 30th Ave",
+      "Long Island City, NY 11103"
+    ]
+  },
+  "phone": "+17182049886",
+  "display_phone": "(718) 204-9886",
+  "distance": 5458.100387097713
+},
+{
+  "id": "tcyuaLXH6Dks9O85noJUdA",
+  "alias": "nyc-health-hospitals-gotham-health-sydenham-new-york-2",
+  "name": "NYC Health + Hospitals/Gotham Health, Sydenham",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nb1wXxNxpWtXuFNHhlHskg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-gotham-health-sydenham-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.805155,
+    "longitude": -73.953646
+  },
+  "transactions": [],
+  "location": {
+    "address1": "264 West 118th St",
+    "address2": null,
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10026",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "264 West 118th St",
+      "New York, NY 10026"
+    ]
+  },
+  "phone": "+18446924692",
+  "display_phone": "(844) 692-4692",
+  "distance": 5421.956408288776
+},
+{
+  "id": "GQz14nQ2QL9enXQM0qTfuQ",
+  "alias": "brooklyn-hospital-center-brooklyn-3",
+  "name": "Brooklyn Hospital Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/brooklyn-hospital-center-brooklyn-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 5,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.707687,
+    "longitude": -73.964691
+  },
+  "transactions": [],
+  "location": {
+    "address1": "99 Division Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "99 Division Ave",
+      "Brooklyn, NY 11211"
+    ]
+  },
+  "phone": "+17185996200",
+  "display_phone": "(718) 599-6200",
+  "distance": 5959.874320549668
+},
+{
+  "id": "jDr1XeOTNlmSCbGb221zvg",
+  "alias": "hudson-regional-hospital-secaucus-3",
+  "name": "Hudson Regional Hospital",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cvjCruQF_qINs5SGNFiFyg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hudson-regional-hospital-secaucus-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 16,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.79228,
+    "longitude": -74.07297
+  },
+  "transactions": [],
+  "location": {
+    "address1": "55 Meadowlands Pkwy",
+    "address2": null,
+    "address3": "",
+    "city": "Secaucus",
+    "zip_code": "07094",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+      "55 Meadowlands Pkwy",
+      "Secaucus, NJ 07094"
+    ]
+  },
+  "phone": "+12013923278",
+  "display_phone": "(201) 392-3278",
+  "distance": 8728.572929828393
+},
+{
+  "id": "w6N8hdmpp5UuJKmWkJEG9g",
+  "alias": "mount-sinai-kravis-childrens-hospital-new-york-2",
+  "name": "Mount Sinai Kravis Children's Hospital",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oLYymTVCPVfQ9EoMcWqQ9g/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/mount-sinai-kravis-childrens-hospital-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.7902150908557,
+    "longitude": -73.9540175065666
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1184 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10029",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1184 5th Ave",
+      "New York, NY 10029"
+    ]
+  },
+  "phone": "+12122419500",
+  "display_phone": "(212) 241-9500",
+  "distance": 3913.690658001232
+},
+{
+  "id": "NKQZMwH4DMWABDeFUQXxXg",
+  "alias": "bronx-lebanon-skilled-care-center-bronx",
+  "name": "Bronx Lebanon Skilled Care Center",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/huMQ8KSRjAJ7QM0atdTUag/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/bronx-lebanon-skilled-care-center-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.83169,
+    "longitude": -73.90404
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1275 Fulton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10456",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1275 Fulton Ave",
+      "Bronx, NY 10456"
+    ]
+  },
+  "phone": "+17186810022",
+  "display_phone": "(718) 681-0022",
+  "distance": 10131.138001256852
+},
+{
+  "id": "4m4pTQJV2KaqJ4zoIIy2SA",
+  "alias": "life-alert-new-york",
+  "name": "Life Alert",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/life-alert-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7484567,
+    "longitude": -73.9847452
+  },
+  "transactions": [],
+  "location": {
+    "address1": "350 5th Ave",
+    "address2": "Ste 929",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10118",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "350 5th Ave",
+      "Ste 929",
+      "New York, NY 10118"
+    ]
+  },
+  "phone": "+16467331999",
+  "display_phone": "(646) 733-1999",
+  "distance": 1442.7967670225696
+},
+{
+  "id": "YR1GxhY3uYRe8WijyS1I2A",
+  "alias": "united-hospital-fund-new-york-2",
+  "name": "United Hospital Fund",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/united-hospital-fund-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7541,
+    "longitude": -73.98728
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1411 Broadway",
+    "address2": "Fl 12",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1411 Broadway",
+      "Fl 12",
+      "New York, NY 10018"
+    ]
+  },
+  "phone": "+12124940700",
+  "display_phone": "(212) 494-0700",
+  "distance": 1001.1749773671546
+},
+{
+  "id": "JNxKNowqi0lp6L29T0bUEg",
+  "alias": "nyu-langone-orthopedic-center-new-york",
+  "name": "NYU Langone Orthopedic Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyu-langone-orthopedic-center-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.74669,
+    "longitude": -73.97233
+  },
+  "transactions": [],
+  "location": {
+    "address1": "333 E 38th St",
+    "address2": "",
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "333 E 38th St",
+      "New York, NY 10016"
+    ]
+  },
+  "phone": "",
+  "display_phone": "",
+  "distance": 1587.7378719084063
+},
+{
+  "id": "lRzfYopNQQEOJiu6H7lo7Q",
+  "alias": "thera-care-of-new-york-new-york",
+  "name": "Thera Care of New York",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/thera-care-of-new-york-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7486153,
+    "longitude": -73.9893188
+  },
+  "transactions": [],
+  "location": {
+    "address1": "116 W 32nd St",
+    "address2": "Fl 8",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "116 W 32nd St",
+      "Fl 8",
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12125642350",
+  "display_phone": "(212) 564-2350",
+  "distance": 1594.4676015762589
+},
+{
+  "id": "igPeinsEAH22dB09AyIAXw",
+  "alias": "phillips-beth-israel-school-of-nursing-new-york",
+  "name": "Phillips Beth Israel School of Nursing",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/phillips-beth-israel-school-of-nursing-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.750244140625,
+    "longitude": -73.9970245361328
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12124202000",
+  "display_phone": "(212) 420-2000",
+  "distance": 1885.8104505804376
+},
+{
+  "id": "-z4jCF3VosI57HOZuJTzfA",
+  "alias": "medical-law-perspectives-new-york",
+  "name": "Medical Law Perspectives",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/medical-law-perspectives-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7536854,
+    "longitude": -73.9991637
+  },
+  "transactions": [],
+  "location": {
+    "address1": "220 5th Ave",
+    "address2": "Ste 900",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "220 5th Ave",
+      "Ste 900",
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12122130222",
+  "display_phone": "(212) 213-0222",
+  "distance": 1885.8104505804376
+},
+{
+  "id": "ImeJz0uaEiW3UzppqT6KHg",
+  "alias": "colar-goldwater-memorial-hospital-new-york",
+  "name": "Colar Goldwater Memorial Hospital",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W5-5khsand06lUQI0pq37g/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/colar-goldwater-memorial-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.755105,
+    "longitude": -73.955653
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1 Main St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10044",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1 Main St",
+      "New York, NY 10044"
+    ]
+  },
+  "phone": "+12123082460",
+  "display_phone": "(212) 308-2460",
+  "distance": 1966.7045089363112
+},
+{
+  "id": "EMIkm2ErJ6QHVEmhsoTfmQ",
+  "alias": "gramercy-surgical-center-new-york",
+  "name": "Gramercy Surgical Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/gramercy-surgical-center-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.73671,
+    "longitude": -73.98696
+  },
+  "transactions": [],
+  "location": {
+    "address1": "67 Irving Pl",
+    "address2": "Fl 10",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "67 Irving Pl",
+      "Fl 10",
+      "New York, NY 10003"
+    ]
+  },
+  "phone": "+12122545350",
+  "display_phone": "(212) 254-5350",
+  "distance": 2711.8778592938706
+},
+{
+  "id": "k151jjIltDbD8_idf3s_AQ",
+  "alias": "nyc-health-hospitals-coler-roosevelt-island",
+  "name": "NYC Health + Hospitals/Coler",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pNY1M9rl50bRdJZ7Yli7lQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-coler-roosevelt-island?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7703132951147,
+    "longitude": -73.9422164935062
+  },
+  "transactions": [],
+  "location": {
+    "address1": "900 Main St",
+    "address2": null,
+    "address3": null,
+    "city": "Roosevelt Island",
+    "zip_code": "10044",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "900 Main St",
+      "Roosevelt Island, NY 10044"
+    ]
+  },
+  "phone": "+12128486000",
+  "display_phone": "(212) 848-6000",
+  "distance": 3255.534600802357
+},
+{
+  "id": "p_57nlfYSU5yqSpCvmkEjw",
+  "alias": "our-birthing-center-morristown",
+  "name": "Our Birthing Center",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UBClpkaNd-krTqFzWEzKtQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/our-birthing-center-morristown?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "midwives",
+      "title": "Midwives"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "obgyn",
+      "title": "Obstetricians & Gynecologists"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.80052,
+    "longitude": -74.46104
+  },
+  "transactions": [],
+  "location": {
+    "address1": "25 Lindsley Dr",
+    "address2": "",
+    "address3": null,
+    "city": "Morristown",
+    "zip_code": "07960",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+      "25 Lindsley Dr",
+      "Morristown, NJ 07960"
+    ]
+  },
+  "phone": "+18624442420",
+  "display_phone": "(862) 444-2420",
+  "distance": 40861.56865222267
+},
+{
+  "id": "n98sebBNBOafaYL_Zg7Isw",
+  "alias": "bronx-lebanon-hospital-center-bronx-2",
+  "name": "Bronx-Lebanon Hospital Center",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LoZ1V0T9nJbAHFxeSRIuEA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/bronx-lebanon-hospital-center-bronx-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.831431,
+    "longitude": -73.903175
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1276 Fulton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10456",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1276 Fulton Ave",
+      "Bronx, NY 10456"
+    ]
+  },
+  "phone": "+17185901800",
+  "display_phone": "(718) 590-1800",
+  "distance": 10159.479280848413
+},
+{
+  "id": "P_aPXl5b7j3TtQW_h_FXOg",
+  "alias": "bronx-lebanon-hospital-center-bronx-6",
+  "name": "Bronx-Lebanon Hospital Center",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1M6Y4hLq__-0Ty2lmrQZ7g/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/bronx-lebanon-hospital-center-bronx-6?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.83213,
+    "longitude": -73.90388
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1285 Fulton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10456",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1285 Fulton Ave",
+      "Bronx, NY 10456"
+    ]
+  },
+  "phone": "+17188177181",
+  "display_phone": "(718) 817-7181",
+  "distance": 10173.240067009578
+},
+{
+  "id": "GW0YP3jqCuuaf84eV9Hxxg",
+  "alias": "bronx-lebanon-hospital-center-bronx-9",
+  "name": "Bronx-Lebanon Hospital Center",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2tPtVfSHlQhxVYYlyUtENQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/bronx-lebanon-hospital-center-bronx-9?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.831615,
+    "longitude": -73.904212
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1265 Fulton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10456",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1265 Fulton Ave",
+      "Bronx, NY 10456"
+    ]
+  },
+  "phone": "+17185797000",
+  "display_phone": "(718) 579-7000",
+  "distance": 10115.785953994393
+},
+{
+  "id": "CdajUCps57DutiMRXIcgBg",
+  "alias": "nyc-health-hospitals-gotham-health-cumberland-brooklyn",
+  "name": "NYC Health + Hospitals/Gotham Health, Cumberland",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ifagqEprmVmyqwPd-AXnFg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-gotham-health-cumberland-brooklyn?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.69509,
+    "longitude": -73.97655
+  },
+  "transactions": [],
+  "location": {
+    "address1": "100 North Portland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11205",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "100 North Portland Ave",
+      "Brooklyn, NY 11205"
+    ]
+  },
+  "phone": "+18446924692",
+  "display_phone": "(844) 692-4692",
+  "distance": 7242.536515062979
+},
+{
+  "id": "wXQ_1piHVA9QIEwtdLT-_Q",
+  "alias": "montefiore-medical-center-bronx-23",
+  "name": "Montefiore Medical Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/montefiore-medical-center-bronx-23?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "orthodontists",
+      "title": "Orthodontists"
+    },
+    {
+      "alias": "endodontists",
+      "title": "Endodontists"
+    },
+    {
+      "alias": "oralsurgeons",
+      "title": "Oral Surgeons"
+    },
+    {
+      "alias": "periodontists",
+      "title": "Periodontists"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.812633857131,
+    "longitude": -73.9044036716223
+  },
+  "transactions": [],
+  "location": {
+    "address1": "555 Prospect Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10455",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "555 Prospect Ave",
+      "Bronx, NY 10455"
+    ]
+  },
+  "phone": "+17189206266",
+  "display_phone": "(718) 920-6266",
+  "distance": 8522.314936286088
+},
+{
+  "id": "aZtXeLUy7Fey1zicBlr7Dw",
+  "alias": "brooklyn-hospital-center-brooklyn-2",
+  "name": "Brooklyn Hospital Center",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Lau1vYctwQvfU9gO_vjEWQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/brooklyn-hospital-center-brooklyn-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.6972618,
+    "longitude": -73.9257965
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1280 Dekalb Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11221",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1280 Dekalb Ave",
+      "Brooklyn, NY 11221"
+    ]
+  },
+  "phone": "+17184559000",
+  "display_phone": "(718) 455-9000",
+  "distance": 8287.672905084002
+},
+{
+  "id": "5jbssquW00BHCBAzPfhhLA",
+  "alias": "park-avenue-trauma-brooklyn-2",
+  "name": "Park Avenue Trauma",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/park-avenue-trauma-brooklyn-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "orthopedists",
+      "title": "Orthopedists"
+    },
+    {
+      "alias": "painmanagement",
+      "title": "Pain Management"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.69104,
+    "longitude": -73.99028
+  },
+  "transactions": [],
+  "location": {
+    "address1": "100 Livingston St",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "100 Livingston St",
+      "Fl 2",
+      "Brooklyn, NY 11201"
+    ]
+  },
+  "phone": "+19178180665",
+  "display_phone": "(917) 818-0665",
+  "distance": 7756.3925354393195
+},
+{
+  "id": "4J9V-_12_-qdJIc4tbYc2w",
+  "alias": "nyc-health-hospitals-gotham-health-bronx-bronx",
+  "name": "NYC Health + Hospitals/Gotham Health- Bronx",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TiPlJIJNs9EUbJ7tprfK3A/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-gotham-health-bronx-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.836344,
+    "longitude": -73.920364
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1225 Gerard Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10452",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1225 Gerard Ave",
+      "Bronx, NY 10452"
+    ]
+  },
+  "phone": "+17189602781",
+  "display_phone": "(718) 960-2781",
+  "distance": 9778.054160584841
+},
+{
+  "id": "Ika5Rh29YmK-w-6UVnko7Q",
+  "alias": "long-island-college-hosp-brooklyn",
+  "name": "Long Island College Hosp",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/long-island-college-hosp-brooklyn?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.69246,
+    "longitude": -73.99036
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "Brooklyn, NY 11201"
+    ]
+  },
+  "phone": "+17187801717",
+  "display_phone": "(718) 780-1717",
+  "distance": 6871.340433207359
+},
+{
+  "id": "ihdtQQNvVkGXnGVWwL32ag",
+  "alias": "jackson-heights-family-health-center-jackson-heights",
+  "name": "Jackson Heights Family Health Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/jackson-heights-family-health-center-jackson-heights?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.755097,
+    "longitude": -73.893083
+  },
+  "transactions": [],
+  "location": {
+    "address1": "7315 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Jackson Heights",
+    "zip_code": "11372",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "7315 Northern Blvd",
+      "Jackson Heights, NY 11372"
+    ]
+  },
+  "phone": "+17184242788",
+  "display_phone": "(718) 424-2788",
+  "distance": 7209.62138278002
+},
+{
+  "id": "oW1FzjM17-m8XOMSarJC6g",
+  "alias": "albert-einstein-weiler-hospital-division-of-montefiore-medical-c-bronx",
+  "name": "Albert Einstein-Weiler Hospital Division of Montefiore Medical C",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/albert-einstein-weiler-hospital-division-of-montefiore-medical-c-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.82601,
+    "longitude": -73.92309
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10451",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "Bronx, NY 10451"
+    ]
+  },
+  "phone": "+17189042395",
+  "display_phone": "(718) 904-2395",
+  "distance": 7811.92640363203
+},
+{
+  "id": "aKWtDFGa1nCgqJ0YnJ0tVA",
+  "alias": "gotham-medical-group-new-york",
+  "name": "Gotham Medical Group",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eptuK9kD44dsMQaZCCK8Dg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/gotham-medical-group-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 8,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3.5,
+  "coordinates": {
+    "latitude": 40.7398643493652,
+    "longitude": -74.003532409668
+  },
+  "transactions": [],
+  "location": {
+    "address1": "314 W 14th St",
+    "address2": "Fl 5",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "314 W 14th St",
+      "Fl 5",
+      "New York, NY 10014"
+    ]
+  },
+  "phone": "+12126200144",
+  "display_phone": "(212) 620-0144",
+  "distance": 3086.843926044356
+},
+{
+  "id": "rozEyxrEwKSeXYL0Z9KFGA",
+  "alias": "gouverneur-diagnostic-and-treatment-center-new-york",
+  "name": "Gouverneur Diagnostic & Treatment Center",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8si2cLe2oIp59m_13JzeAA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/gouverneur-diagnostic-and-treatment-center-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "rehabilitation_center",
+      "title": "Rehabilitation Center"
+    }
+  ],
+  "rating": 4.5,
+  "coordinates": {
+    "latitude": 40.7132,
+    "longitude": -73.98778
+  },
+  "transactions": [],
+  "location": {
+    "address1": "227 Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "227 Madison St",
+      "New York, NY 10002"
+    ]
+  },
+  "phone": "+12129255000",
+  "display_phone": "(212) 925-5000",
+  "distance": 5295.564089698118
+},
+{
+  "id": "HTsxom6VM2Fo2LeXlINZNw",
+  "alias": "nyc-health-hospitals-gotham-health-gouverneur-new-york-4",
+  "name": "NYC Health + Hospitals/Gotham Health - Gouverneur",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kNOYlApfcKf4ecKL1sEmfw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-gotham-health-gouverneur-new-york-4?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 20,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.713128,
+    "longitude": -73.9877376
+  },
+  "transactions": [],
+  "location": {
+    "address1": "227 Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "227 Madison St",
+      "New York, NY 10002"
+    ]
+  },
+  "phone": "+18446924692",
+  "display_phone": "(844) 692-4692",
+  "distance": 5293.346903343309
+},
+{
+  "id": "KrlWEtJamvWblZfdIpyc_w",
+  "alias": "hockstein-steven-md-new-york",
+  "name": "Hockstein Steven MD",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hockstein-steven-md-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4.5,
+  "coordinates": {
+    "latitude": 40.7670989,
+    "longitude": -73.9546658
+  },
+  "transactions": [],
+  "location": {
+    "address1": "428 E 72nd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "428 E 72nd St",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127464900",
+  "display_phone": "(212) 746-4900",
+  "distance": 2134.875509221619
+},
+{
+  "id": "jhdMmUAYC4jy8MrBotWMrA",
+  "alias": "eisenbach-zacharia-rabbi-new-york",
+  "name": "Eisenbach Zacharia Rabbi",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PFVKlsvw3aKPupfeKGDsCA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/eisenbach-zacharia-rabbi-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.71463,
+    "longitude": -73.98182
+  },
+  "transactions": [],
+  "location": {
+    "address1": "504 Grand St",
+    "address2": "Ste M3",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "504 Grand St",
+      "Ste M3",
+      "New York, NY 10002"
+    ]
+  },
+  "phone": "+12126748840",
+  "display_phone": "(212) 674-8840",
+  "distance": 5063.2999130186145
+},
+{
+  "id": "YPOOvv7mXTfumjSnLj-T_w",
+  "alias": "cancer-care-new-york",
+  "name": "Cancer Care",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/cancer-care-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 4,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4,
+  "coordinates": {
+    "latitude": 40.74555,
+    "longitude": -73.9941599
+  },
+  "transactions": [],
+  "location": {
+    "address1": "275 7th Avenue Ph",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "275 7th Avenue Ph",
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12127128400",
+  "display_phone": "(212) 712-8400",
+  "distance": 2095.630605658933
+},
+{
+  "id": "9Dxp_y_jZf2BQ_1cmN7W_A",
+  "alias": "palisades-general-hospital-north-bergen",
+  "name": "Palisades General Hospital",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DYT5kM8MIa7hudBNNpfyFg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/palisades-general-hospital-north-bergen?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 90,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.7935273590165,
+    "longitude": -73.9960845937414
+  },
+  "transactions": [],
+  "location": {
+    "address1": "7600 River Rd",
+    "address2": "",
+    "address3": "",
+    "city": "North Bergen",
+    "zip_code": "07047",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+      "7600 River Rd",
+      "North Bergen, NJ 07047"
+    ]
+  },
+  "phone": "+12018545000",
+  "display_phone": "(201) 854-5000",
+  "distance": 3989.1358407767634
+},
+{
+  "id": "CRldkXHMV-tlRjyEuu4sQQ",
+  "alias": "the-brooklyn-hospital-center-brooklyn-2",
+  "name": "The Brooklyn Hospital Center",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Xg7vdiU5QmmWm-u0eLTnFg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/the-brooklyn-hospital-center-brooklyn-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 154,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.690853,
+    "longitude": -73.977995
+  },
+  "transactions": [],
+  "location": {
+    "address1": "121 Dekalb Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "121 Dekalb Ave",
+      "Brooklyn, NY 11201"
+    ]
+  },
+  "phone": "+17182508000",
+  "display_phone": "(718) 250-8000",
+  "distance": 7712.801600133367
+},
+{
+  "id": "2vu8R_asO24vCXkA8l9qmg",
+  "alias": "nyc-health-hospitals-elmhurst-elmhurst",
+  "name": "NYC Health + Hospitals/Elmhurst",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S4u6xCc6SOND2PjNYESMRg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-elmhurst-elmhurst?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 233,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1.5,
+  "coordinates": {
+    "latitude": 40.7451099,
+    "longitude": -73.8856
+  },
+  "transactions": [],
+  "location": {
+    "address1": "79-01 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Elmhurst",
+    "zip_code": "11373",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "79-01 Broadway",
+      "Elmhurst, NY 11373"
+    ]
+  },
+  "phone": "+17183344000",
+  "display_phone": "(718) 334-4000",
+  "distance": 7989.451735108705
+},
+{
+  "id": "EZePcZZBu2kZyXspvr3etQ",
+  "alias": "gracie-square-hospital-new-york-2",
+  "name": "Gracie Square Hospital",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9OSjzgg9qtBDOPH9MeunIQ/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/gracie-square-hospital-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 25,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1.5,
+  "coordinates": {
+    "latitude": 40.7696605749972,
+    "longitude": -73.952994868129
+  },
+  "transactions": [],
+  "location": {
+    "address1": "420 E 76th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "420 E 76th St",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12129884400",
+  "display_phone": "(212) 988-4400",
+  "distance": 2391.0639713993683
+},
+{
+  "id": "rCeca4oQsed5t4AIqh39AQ",
+  "alias": "semih-gungor-md-new-york",
+  "name": "Semih Gungor Md.",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/semih-gungor-md-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.76586,
+    "longitude": -73.95248
+  },
+  "transactions": [],
+  "location": {
+    "address1": "525 E 71st St",
+    "address2": "Apt 7I",
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "525 E 71st St",
+      "Apt 7I",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127742176",
+  "display_phone": "(212) 774-2176",
+  "distance": 2287.2383412671466
+},
+{
+  "id": "xL4FK6VGhmemL__fyPEl8g",
+  "alias": "hospital-for-joint-diseases-orthopaedic-institute-new-york",
+  "name": "Hospital For Joint Diseases Orthopaedic Institute",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hospital-for-joint-diseases-orthopaedic-institute-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.73698,
+    "longitude": -73.98135
+  },
+  "transactions": [],
+  "location": {
+    "address1": "380 2nd Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "380 2nd Ave",
+      "New York, NY 10010"
+    ]
+  },
+  "phone": "+12124600196",
+  "display_phone": "(212) 460-0196",
+  "distance": 2594.5736708974614
+},
+{
+  "id": "dbQ4i2k1phNIbLoMI9A1IA",
+  "alias": "christ-hospital-new-jersey",
+  "name": "Christ Hospital",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0dHR2ni1VhPj-SOYqSdN_Q/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/christ-hospital-new-jersey?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 51,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.73417,
+    "longitude": -74.04977
+  },
+  "transactions": [],
+  "location": {
+    "address1": "176 Palisade Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New Jersey",
+    "zip_code": "07306",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+      "176 Palisade Ave",
+      "New Jersey, NJ 07306"
+    ]
+  },
+  "phone": "+12017958200",
+  "display_phone": "(201) 795-8200",
+  "distance": 6663.662035025483
+},
+{
+  "id": "Lh3Vz4b5dJuS8Y8YLmuNnw",
+  "alias": "new-york-presbyterian-hospital-new-york-weill-cornell-medical-ce-new-york-15",
+  "name": "New York Presbyterian Hospital-New York Weill Cornell Medical Ce",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Eculzg8w68PiWF8Tt95t-w/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-presbyterian-hospital-new-york-weill-cornell-medical-ce-new-york-15?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 4,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.76442,
+    "longitude": -73.95393
+  },
+  "transactions": [],
+  "location": {
+    "address1": "530 E 70th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "530 E 70th St",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127465383",
+  "display_phone": "(212) 746-5383",
+  "distance": 2121.3102783053273
+},
+{
+  "id": "qS6HCtaygFQFQZbX0UuwaA",
+  "alias": "ny-downtown-hospital-new-york",
+  "name": "NY Downtown Hospital",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4moOsf_vLcGodZDykCVFWw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/ny-downtown-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 13,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.7104831750515,
+    "longitude": -74.0054543919249
+  },
+  "transactions": [],
+  "location": {
+    "address1": "170 William St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "170 William St",
+      "New York, NY 10002"
+    ]
+  },
+  "phone": "+12123125110",
+  "display_phone": "(212) 312-5110",
+  "distance": 5979.679766934556
+},
+{
+  "id": "jhp9lH2n5IJpgjBi2DnSmg",
+  "alias": "new-york-downtown-wic-program-new-york",
+  "name": "New York Downtown WIC Program",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nSMMqL7NPj3fGbGGtpnxtw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-downtown-wic-program-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.70961,
+    "longitude": -74.00511
+  },
+  "transactions": [],
+  "location": {
+    "address1": "69 Gold St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "69 Gold St",
+      "New York, NY 10038"
+    ]
+  },
+  "phone": "+12123125831",
+  "display_phone": "(212) 312-5831",
+  "distance": 6014.218526375831
+},
+{
+  "id": "G1pcKQ_T4X-SpVjbgJDzkQ",
+  "alias": "beth-israel-orthopedic-associates-new-york",
+  "name": "Beth Israel Orthopedic Associates",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/beth-israel-orthopedic-associates-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 4,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7350197,
+    "longitude": -73.9898376
+  },
+  "transactions": [],
+  "location": {
+    "address1": "10 Union Sq E",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "10 Union Sq E",
+      "New York, NY 10003"
+    ]
+  },
+  "phone": "+12128448550",
+  "display_phone": "(212) 844-8550",
+  "distance": 2978.353275887603
+},
+{
+  "id": "5Y3kKA47lt3sAE5mA11BPw",
+  "alias": "hospital-league-local-1199-new-york",
+  "name": "Hospital League Local 1199",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hospital-league-local-1199-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7575,
+    "longitude": -73.99157
+  },
+  "transactions": [],
+  "location": {
+    "address1": "330 W 42nd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "330 W 42nd St",
+      "New York, NY 10036"
+    ]
+  },
+  "phone": "+12124940500",
+  "display_phone": "(212) 494-0500",
+  "distance": 1144.5354575189433
+},
+{
+  "id": "vrPAnjq_HYNW6hQ_bEhA2A",
+  "alias": "new-gouverneur-hospital-s-n-f-new-york",
+  "name": "New Gouverneur Hospital S N F",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6CAjpog5FzSA5YMr1QJplw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-gouverneur-hospital-s-n-f-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7131996,
+    "longitude": -73.9877777
+  },
+  "transactions": [],
+  "location": {
+    "address1": "227 Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "227 Madison St",
+      "New York, NY 10002"
+    ]
+  },
+  "phone": "+12124415000",
+  "display_phone": "(212) 441-5000",
+  "distance": 5295.564089698118
+},
+{
+  "id": "n-zUxy1QMrU51nCnLll7yg",
+  "alias": "hospital-league-1199-training-and-upgrading-fund-new-york",
+  "name": "Hospital League 1199 Training & Upgrading Fund",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hospital-league-1199-training-and-upgrading-fund-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4,
+  "coordinates": {
+    "latitude": 40.7575,
+    "longitude": -73.99157
+  },
+  "transactions": [],
+  "location": {
+    "address1": "330 W 42nd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "330 W 42nd St",
+      "New York, NY 10036"
+    ]
+  },
+  "phone": "+12126439340",
+  "display_phone": "(212) 643-9340",
+  "distance": 1144.5354575189433
+},
+{
+  "id": "ruUUOWx9f6TaYY1J9R7a_Q",
+  "alias": "coler-goldwater-fac-new-york",
+  "name": "Coler Goldwater Fac",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/coler-goldwater-fac-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4,
+  "coordinates": {
+    "latitude": 40.755105,
+    "longitude": -73.955653
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1 Main St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10044",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1 Main St",
+      "New York, NY 10044"
+    ]
+  },
+  "phone": "+12123037280",
+  "display_phone": "(212) 303-7280",
+  "distance": 1966.7045089363112
+},
+{
+  "id": "Yonn0EmLdDjMpKCoBn-cXw",
+  "alias": "nyc-health-hospitals-woodhull-brooklyn",
+  "name": "NYC Health + Hospitals/Woodhull",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8YR1UhxOsaLT7CqhKV96iw/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-woodhull-brooklyn?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 47,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.6994789462892,
+    "longitude": -73.9426392316818
+  },
+  "transactions": [],
+  "location": {
+    "address1": "760 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11206",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "760 Broadway",
+      "Brooklyn, NY 11206"
+    ]
+  },
+  "phone": "+17189638000",
+  "display_phone": "(718) 963-8000",
+  "distance": 7398.723726555112
+},
+{
+  "id": "7RJJMmho_wXXwjooZtN2sw",
+  "alias": "nyc-health-hospitals-lincoln-bronx",
+  "name": "NYC Health + Hospitals/Lincoln",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GJewHIvpvPQISJ9iLFASgA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-lincoln-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 38,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.8171394917314,
+    "longitude": -73.9234367716692
+  },
+  "transactions": [],
+  "location": {
+    "address1": "234 East 149th St",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10451",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "234 East 149th St",
+      "Bronx, NY 10451"
+    ]
+  },
+  "phone": "+17185795000",
+  "display_phone": "(718) 579-5000",
+  "distance": 7845.706825885843
+},
+{
+  "id": "lLxDl8kj8yIdm9-bf4hz2w",
+  "alias": "new-york-presbyterian-hospital-new-york-weill-cornell-medical-ce-new-york-11",
+  "name": "New York Presbyterian Hospital-New York Weill Cornell Medical Ce",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vPTS-SbwNmtpmLkOrXC8Sg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-presbyterian-hospital-new-york-weill-cornell-medical-ce-new-york-11?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7610607,
+    "longitude": -73.9581243
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1167 York Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1167 York Ave",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127466972",
+  "display_phone": "(212) 746-6972",
+  "distance": 1716.8291129855536
+},
+{
+  "id": "T5hp-z7Kpl3mLkcjCjfFUw",
+  "alias": "the-society-of-the-ny-hospital-new-york",
+  "name": "The Society Of The NY Hospital",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/the-society-of-the-ny-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7642746,
+    "longitude": -73.9552307
+  },
+  "transactions": [],
+  "location": {
+    "address1": "525 E 68th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10065",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "525 E 68th St",
+      "New York, NY 10065"
+    ]
+  },
+  "phone": "+12127464311",
+  "display_phone": "(212) 746-4311",
+  "distance": 2090.500435532844
+},
+{
+  "id": "amcKB6KvykBrIGsrMPMS5Q",
+  "alias": "st-vincent-hospital-ems-new-york",
+  "name": "St. Vincent Hospital EMS",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/st-vincent-hospital-ems-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7390174865723,
+    "longitude": -73.9842987060547
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10159",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "New York, NY 10159"
+    ]
+  },
+  "phone": "+18667599241",
+  "display_phone": "(866) 759-9241",
+  "distance": 2364.4882565102644
+},
+{
+  "id": "o1Uz8Zq3pavQVO2xTxo7ag",
+  "alias": "henry-j-carter-specialty-hospital-and-nursing-facility-new-york",
+  "name": "Henry J Carter Specialty Hospital & Nursing Facility",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1s5oySFiCkQOQytc_zznKA/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/henry-j-carter-specialty-hospital-and-nursing-facility-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 6,
+  "categories": [
+    {
+      "alias": "skillednursing",
+      "title": "Skilled Nursing"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.803001,
+    "longitude": -73.941116
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1752 Park Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10035",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1752 Park Ave",
+      "New York, NY 10035"
+    ]
+  },
+  "phone": "+12126860000",
+  "display_phone": "(212) 686-0000",
+  "distance": 5716.596400332128
+},
+{
+  "id": "xTnyHFSfCAHzHO9acLQALA",
+  "alias": "new-york-downtown-hospital-new-york-3",
+  "name": "New York Downtown Hospital",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/64aHAlAQplIY3pdZ1SlFbg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-downtown-hospital-new-york-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.70852,
+    "longitude": -74.00735
+  },
+  "transactions": [],
+  "location": {
+    "address1": "100 William St",
+    "address2": "Fl 5",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "100 William St",
+      "Fl 5",
+      "New York, NY 10038"
+    ]
+  },
+  "phone": "+12124441939",
+  "display_phone": "(212) 444-1939",
+  "distance": 6251.008751664266
+},
+{
+  "id": "HFJ4bqKivDWwsQmGyx0bLg",
+  "alias": "christopher-j-dimaio-manhattan",
+  "name": "Christopher J DiMaio",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/christopher-j-dimaio-manhattan?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.7891370356083,
+    "longitude": -73.9545247703791
+  },
+  "transactions": [],
+  "location": {
+    "address1": "5 E 98th St",
+    "address2": "Fl 11",
+    "address3": "",
+    "city": "Manhattan",
+    "zip_code": "10029",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "5 E 98th St",
+      "Fl 11",
+      "Manhattan, NY 10029"
+    ]
+  },
+  "phone": "+12122414299",
+  "display_phone": "(212) 241-4299",
+  "distance": 3793.077371412197
+},
+{
+  "id": "tl7bSu0WrrN24u2YipqcIA",
+  "alias": "beekman-downtown-hospital-new-york",
+  "name": "Beekman Downtown Hospital",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/beekman-downtown-hospital-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2.5,
+  "coordinates": {
+    "latitude": 40.750244140625,
+    "longitude": -73.9970245361328
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12123125000",
+  "display_phone": "(212) 312-5000",
+  "distance": 1885.8104505804376
+},
+{
+  "id": "hW02-FV8kf1dcIq3ALqNSg",
+  "alias": "new-york-presbyterian-hospital-new-york-3",
+  "name": "New York Presbyterian Hospital",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-presbyterian-hospital-new-york-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.75179,
+    "longitude": -73.98983
+  },
+  "transactions": [],
+  "location": {
+    "address1": "463 Fashion Ave",
+    "address2": null,
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "463 Fashion Ave",
+      "New York, NY 10018"
+    ]
+  },
+  "phone": "+12126327400",
+  "display_phone": "(212) 632-7400",
+  "distance": 1326.1654321366807
+},
+{
+  "id": "1BfzpNzFQ79W1RdBeGFXpw",
+  "alias": "weiland-andrew-j-dr-new-york",
+  "name": "Weiland Andrew J Dr",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/weiland-andrew-j-dr-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7650937139988,
+    "longitude": -73.9535001665354
+  },
+  "transactions": [],
+  "location": {
+    "address1": "535 E 70th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "535 E 70th St",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12126061000",
+  "display_phone": "(212) 606-1000",
+  "distance": 2261.2154974896207
+},
+{
+  "id": "H72mCWLA0b4PSEXG01C5FQ",
+  "alias": "ribakove-greg-h-md-new-york",
+  "name": "Ribakove Greg H MD",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/ribakove-greg-h-md-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "physicians",
+      "title": "Doctors"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.7417597,
+    "longitude": -73.974786
+  },
+  "transactions": [],
+  "location": {
+    "address1": "530 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "530 1st Ave",
+      "New York, NY 10016"
+    ]
+  },
+  "phone": "+12122636516",
+  "display_phone": "(212) 263-6516",
+  "distance": 2120.2886106824517
+},
+{
+  "id": "TqhMPaq6uqyf1bGxb2E3Kg",
+  "alias": "new-york-presbyterian-hospital-new-york-10",
+  "name": "New York Presbyterian Hospital",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-presbyterian-hospital-new-york-10?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.76597,
+    "longitude": -73.95417
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1324 York Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1324 York Ave",
+      "New York, NY 10021"
+    ]
+  },
+  "phone": "+12127461459",
+  "display_phone": "(212) 746-1459",
+  "distance": 2146.409068768471
+},
+{
+  "id": "y0dLwfbyYKUp_47wX7WjFA",
+  "alias": "continuum-cancer-center-radiation-oncology-new-york",
+  "name": "Continuum Cancer Center Radiation Oncology",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/M9dDXGGVbaN_WEqH7YExZg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/continuum-cancer-center-radiation-oncology-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "medcenters",
+      "title": "Medical Centers"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.7408981,
+    "longitude": -74.0027313
+  },
+  "transactions": [],
+  "location": {
+    "address1": "325 W 15th St",
+    "address2": null,
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "325 W 15th St",
+      "New York, NY 10011"
+    ]
+  },
+  "phone": "+12123671801",
+  "display_phone": "(212) 367-1801",
+  "distance": 2979.237351431984
+},
+{
+  "id": "_mhJbrQoL9mB-7rAX9qgiQ",
+  "alias": "cobble-hill-nursing-home-brooklyn",
+  "name": "Cobble Hill Nursing Home",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/of5Y9KKyK6oAA1kbteM39g/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/cobble-hill-nursing-home-brooklyn?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 8,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 3,
+  "coordinates": {
+    "latitude": 40.68844,
+    "longitude": -73.99755
+  },
+  "transactions": [],
+  "location": {
+    "address1": "380 Henry St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "380 Henry St",
+      "Brooklyn, NY 11201"
+    ]
+  },
+  "phone": "+17188556789",
+  "display_phone": "(718) 855-6789",
+  "distance": 8138.519558344451
+},
+{
+  "id": "yl8WFHn9CIJiA_i4y1zmrA",
+  "alias": "local-1199-hospital-and-health-care-employees-union-rwdsu-afl-cio-new-york",
+  "name": "Local 1199 Hospital & Health Care Employees Union Rwdsu Afl-CIO",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/local-1199-hospital-and-health-care-employees-union-rwdsu-afl-cio-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.75811,
+    "longitude": -73.99002
+  },
+  "transactions": [],
+  "location": {
+    "address1": "310 W 43rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "310 W 43rd St",
+      "New York, NY 10036"
+    ]
+  },
+  "phone": "+12125821890",
+  "display_phone": "(212) 582-1890",
+  "distance": 1000.602651347435
+},
+{
+  "id": "JblN-U3AQeUfyQQE0ovx7A",
+  "alias": "school-based-health-clinic-at-norman-thomas-new-york",
+  "name": "School Based Health Clinic At Norman Thomas",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/school-based-health-clinic-at-norman-thomas-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.74651,
+    "longitude": -73.98105
+  },
+  "transactions": [],
+  "location": {
+    "address1": "111 E 33rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "111 E 33rd St",
+      "New York, NY 10016"
+    ]
+  },
+  "phone": "+12126861522",
+  "display_phone": "(212) 686-1522",
+  "distance": 1548.515310945341
+},
+{
+  "id": "x4jz0a19Si0BhfftElEjvQ",
+  "alias": "village-primary-care-new-york",
+  "name": "Village Primary Care",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/village-primary-care-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.73987,
+    "longitude": -74.00353
+  },
+  "transactions": [],
+  "location": {
+    "address1": "314 W 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "314 W 14th St",
+      "New York, NY 10014"
+    ]
+  },
+  "phone": "+12122066560",
+  "display_phone": "(212) 206-6560",
+  "distance": 3087.119757309264
+},
+{
+  "id": "50BkZU3XoWqFtbgq2RoOPw",
+  "alias": "new-york-hospital-queens-long-island-city",
+  "name": "New York Hospital Queens",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/new-york-hospital-queens-long-island-city?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 4,
+  "coordinates": {
+    "latitude": 40.76366,
+    "longitude": -73.91389
+  },
+  "transactions": [],
+  "location": {
+    "address1": "41-01 30th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Long Island City",
+    "zip_code": "11103",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "41-01 30th Ave",
+      "Long Island City, NY 11103"
+    ]
+  },
+  "phone": "+17182049886",
+  "display_phone": "(718) 204-9886",
+  "distance": 5458.100387097713
+},
+{
+  "id": "tcyuaLXH6Dks9O85noJUdA",
+  "alias": "nyc-health-hospitals-gotham-health-sydenham-new-york-2",
+  "name": "NYC Health + Hospitals/Gotham Health, Sydenham",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nb1wXxNxpWtXuFNHhlHskg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyc-health-hospitals-gotham-health-sydenham-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.805155,
+    "longitude": -73.953646
+  },
+  "transactions": [],
+  "location": {
+    "address1": "264 West 118th St",
+    "address2": null,
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10026",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "264 West 118th St",
+      "New York, NY 10026"
+    ]
+  },
+  "phone": "+18446924692",
+  "display_phone": "(844) 692-4692",
+  "distance": 5421.956408288776
+},
+{
+  "id": "GQz14nQ2QL9enXQM0qTfuQ",
+  "alias": "brooklyn-hospital-center-brooklyn-3",
+  "name": "Brooklyn Hospital Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/brooklyn-hospital-center-brooklyn-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 5,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.707687,
+    "longitude": -73.964691
+  },
+  "transactions": [],
+  "location": {
+    "address1": "99 Division Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "99 Division Ave",
+      "Brooklyn, NY 11211"
+    ]
+  },
+  "phone": "+17185996200",
+  "display_phone": "(718) 599-6200",
+  "distance": 5959.874320549668
+},
+{
+  "id": "jDr1XeOTNlmSCbGb221zvg",
+  "alias": "hudson-regional-hospital-secaucus-3",
+  "name": "Hudson Regional Hospital",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cvjCruQF_qINs5SGNFiFyg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/hudson-regional-hospital-secaucus-3?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 16,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.79228,
+    "longitude": -74.07297
+  },
+  "transactions": [],
+  "location": {
+    "address1": "55 Meadowlands Pkwy",
+    "address2": null,
+    "address3": "",
+    "city": "Secaucus",
+    "zip_code": "07094",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+      "55 Meadowlands Pkwy",
+      "Secaucus, NJ 07094"
+    ]
+  },
+  "phone": "+12013923278",
+  "display_phone": "(201) 392-3278",
+  "distance": 8728.572929828393
+},
+{
+  "id": "w6N8hdmpp5UuJKmWkJEG9g",
+  "alias": "mount-sinai-kravis-childrens-hospital-new-york-2",
+  "name": "Mount Sinai Kravis Children's Hospital",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oLYymTVCPVfQ9EoMcWqQ9g/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/mount-sinai-kravis-childrens-hospital-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 2,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 2,
+  "coordinates": {
+    "latitude": 40.7902150908557,
+    "longitude": -73.9540175065666
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1184 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10029",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1184 5th Ave",
+      "New York, NY 10029"
+    ]
+  },
+  "phone": "+12122419500",
+  "display_phone": "(212) 241-9500",
+  "distance": 3913.690658001232
+},
+{
+  "id": "NKQZMwH4DMWABDeFUQXxXg",
+  "alias": "bronx-lebanon-skilled-care-center-bronx",
+  "name": "Bronx Lebanon Skilled Care Center",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/huMQ8KSRjAJ7QM0atdTUag/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/bronx-lebanon-skilled-care-center-bronx?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 5,
+  "coordinates": {
+    "latitude": 40.83169,
+    "longitude": -73.90404
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1275 Fulton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10456",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1275 Fulton Ave",
+      "Bronx, NY 10456"
+    ]
+  },
+  "phone": "+17186810022",
+  "display_phone": "(718) 681-0022",
+  "distance": 10131.138001256852
+},
+{
+  "id": "4m4pTQJV2KaqJ4zoIIy2SA",
+  "alias": "life-alert-new-york",
+  "name": "Life Alert",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/life-alert-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 3,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7484567,
+    "longitude": -73.9847452
+  },
+  "transactions": [],
+  "location": {
+    "address1": "350 5th Ave",
+    "address2": "Ste 929",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10118",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "350 5th Ave",
+      "Ste 929",
+      "New York, NY 10118"
+    ]
+  },
+  "phone": "+16467331999",
+  "display_phone": "(646) 733-1999",
+  "distance": 1442.7967670225696
+},
+{
+  "id": "YR1GxhY3uYRe8WijyS1I2A",
+  "alias": "united-hospital-fund-new-york-2",
+  "name": "United Hospital Fund",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/united-hospital-fund-new-york-2?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    },
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7541,
+    "longitude": -73.98728
+  },
+  "transactions": [],
+  "location": {
+    "address1": "1411 Broadway",
+    "address2": "Fl 12",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "1411 Broadway",
+      "Fl 12",
+      "New York, NY 10018"
+    ]
+  },
+  "phone": "+12124940700",
+  "display_phone": "(212) 494-0700",
+  "distance": 1001.1749773671546
+},
+{
+  "id": "JNxKNowqi0lp6L29T0bUEg",
+  "alias": "nyu-langone-orthopedic-center-new-york",
+  "name": "NYU Langone Orthopedic Center",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/nyu-langone-orthopedic-center-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.74669,
+    "longitude": -73.97233
+  },
+  "transactions": [],
+  "location": {
+    "address1": "333 E 38th St",
+    "address2": "",
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "333 E 38th St",
+      "New York, NY 10016"
+    ]
+  },
+  "phone": "",
+  "display_phone": "",
+  "distance": 1587.7378719084063
+},
+{
+  "id": "lRzfYopNQQEOJiu6H7lo7Q",
+  "alias": "thera-care-of-new-york-new-york",
+  "name": "Thera Care of New York",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/thera-care-of-new-york-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.7486153,
+    "longitude": -73.9893188
+  },
+  "transactions": [],
+  "location": {
+    "address1": "116 W 32nd St",
+    "address2": "Fl 8",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "116 W 32nd St",
+      "Fl 8",
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12125642350",
+  "display_phone": "(212) 564-2350",
+  "distance": 1594.4676015762589
+},
+{
+  "id": "igPeinsEAH22dB09AyIAXw",
+  "alias": "phillips-beth-israel-school-of-nursing-new-york",
+  "name": "Phillips Beth Israel School of Nursing",
+  "image_url": "",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/phillips-beth-israel-school-of-nursing-new-york?adjust_creative=eOf-4tmZYmPGEoTXpz-Ppw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eOf-4tmZYmPGEoTXpz-Ppw",
+  "review_count": 1,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "rating": 1,
+  "coordinates": {
+    "latitude": 40.750244140625,
+    "longitude": -73.9970245361328
+  },
+  "transactions": [],
+  "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+      "New York, NY 10001"
+    ]
+  },
+  "phone": "+12124202000",
+  "display_phone": "(212) 420-2000",
+  "distance": 1885.8104505804376
+}]
