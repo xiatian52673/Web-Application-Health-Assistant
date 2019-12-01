@@ -1,0 +1,235 @@
+#buttons{
+    height: 50px;
+    width: 100%;
+    margin-top: 50px;
+    position:relative;
+    top:10%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play2{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play3{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play4{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play5{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play6{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play7{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play8{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play9{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play10{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play11{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play12{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play13{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+#play14{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-color:grey;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    transform: translate(20%,12%);
+}
+
+
+#play img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play2 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play3 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play4 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play5 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play6 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play7 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play8 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play9 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play10 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play11 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play12 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play13 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#play14 img{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}

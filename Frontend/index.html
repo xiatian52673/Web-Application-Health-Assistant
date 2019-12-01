@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+<title>login</title>
+<link rel="stylesheet" type="text/css" href="firstpage/normalize.css" />
+<link rel="stylesheet" type="text/css" href="firstpage/demo.css" />
+<!--必要样式-->
+<link rel="stylesheet" type="text/css" href="firstpage/component.css" />
+<!--[if IE]>
+<script src="js/html5.js"></script>
+<![endif]-->
+</head>
+<body>
+		<div class="container demo-1">
+			<div class="content">
+				<div id="large-header" class="large-header">
+					<canvas id="demo-canvas"></canvas>
+					<div class="logo_box">
+						<h1 class="cover-heading">Welcome!</h1>
+						<form action="#" name="f" method="post">
+							<div class="input_outer">Your Health Assistant</div>
+							<p class="lead">Feel Sick? <br> I can help you with that.</p>
+							<input type="button" id="start" value="Start" onclick="window.location.href='https://healthybot.auth.us-east-1.amazoncognito.com/login?response_type=code&client_id=1o1nshuk2ugunimbcgfjj8gt6i&redirect_uri=https://healthyindex.s3.amazonaws.com/home.html';"/>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div><!-- /container -->
+		<script src="firstpage/TweenLite.min.js"></script>
+		<script src="firstpage/EasePack.min.js"></script>
+		<script src="firstpage/rAF.js"></script>
+		<script src="firstpage/demo-1.js"></script>
+		<div style="text-align:center;">
+</div>
+	</body>
+</html>
